@@ -2,7 +2,7 @@
 name: Bohak Yoon
 image: images/photo.jpg
 role: pi
-affiliation: Baylor University
+###affiliation: Baylor University
 aliases:
   - B. Yoon
   - B Yoon
@@ -10,9 +10,10 @@ links:
   email: bohakyoon@gmail.com
   home-page: https://yoongroup.github.io
   orcid: 0000-0003-1769-6422
+  
 education:
-  - University of Chicago, Postdoctoral Fellow in Theoretical Chemistry (2022-2024)
-  - University of Texas at Austin, Ph.D. in Chemical Engineering (2022)
+  - University of Chicago, PostDoc in Theoretical Chemistry (2022-2024)
+  - UT Austin, Ph.D. in Chemical Engineering (2022)
   - Lehigh University, B.S. in Chemical Engineering (2016)
 ---
 
