@@ -7,71 +7,42 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Inquiries can be directed to [bohakyoon@gmail.com](mailto:bohakyoon@gmail.com).
+
+We’re looking for highly motivated graduate and undergraduate students and postdocs in the yoon group. Please send an email with your CV, if you’re interested in working with us!
+
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="bohakyoon@gmail.com"
+  link="bohakyoon@gmail.com"
 %}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
+
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://maps.app.goo.gl/caoziThayPhzJewA9"
 %}
 
 {% include section.html %}
 
-{% capture col1 %}
+## Directions
 
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
+{% capture text %}
+We are part of the [Department of Chemistry and Biochemistry](https://www.bme.gatech.edu/) at Baylor University. Our group is located on the Baylor campus in Waco, TX.
 
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
+Address: 101 Bagby Ave, Waco, TX 76706, United States [[map]((https://maps.app.goo.gl/caoziThayPhzJewA9)]
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}
+{%
+  include feature.html
+  image="http://walshwebsiteassets.blob.core.windows.net/sitedocs/images/georgiatechuawhitakerbiomedicalengineeringbuilding1-8462.jpg"
+  headline=""
+  text=text
+%}
 
 {% include section.html dark=true %}
 
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
