@@ -31,15 +31,15 @@ We’re looking for highly motivated graduate and undergraduate students and pos
 ## Directions
 
 {% capture text %}
-We are part of the [Department of Chemistry and Biochemistry](https://www.bme.gatech.edu/) at Baylor University. Our group is located on the Baylor campus in Waco, TX.
+We are part of the [Department of Chemistry and Biochemistry](https://chemistry.artsandsciences.baylor.edu/) at Baylor University. Our group is located on the Baylor campus in Waco, TX.
 
-Address: 101 Bagby Ave, Waco, TX 76706, United States [[map]((https://maps.app.goo.gl/caoziThayPhzJewA9)]
+Address: 101 Bagby Ave, Waco, TX 76706, United States [[map](https://maps.app.goo.gl/caoziThayPhzJewA9)]
 
 {% endcapture %}
 
 {%
   include feature.html
-  image="http://walshwebsiteassets.blob.core.windows.net/sitedocs/images/georgiatechuawhitakerbiomedicalengineeringbuilding1-8462.jpg"
+  image="http://walshwebsiteassets.blob.core.windows.net/sitedocs/images/georgiatechuawhitakerbiomedicalengineeringbuilding1-8462.jpg](https://images.app.goo.gl/3sY4TF7voGkpYXjNA"
   headline=""
   text=text
 %}
