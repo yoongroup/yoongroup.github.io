@@ -7,8 +7,13 @@ aliases:
   - B. Yoon
   - B Yoon
 links:
-  home-page: [https://yoongroup.github.io]
+  email: bohakyoon@gmail.com
+  home-page: https://yoongroup.github.io
   orcid: 0000-0003-1769-6422
+education:
+  - University of Chicago, Postdoctoral Fellow in Theoretical Chemistry (2022-2024)
+  - University of Texas at Austin, Ph.D. in Chemical Engineering (2022)
+  - Lehigh University, B.S. in Chemical Engineering (2016)
 ---
 
 Bohak is an Assistant Professor in the Department of Chemistry and Biochemistry at Baylor University.
