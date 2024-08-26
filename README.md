@@ -1,5 +1,5 @@
 
-# yoongroupDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# yoongroup website
 
 Visit **[yoongroup.github.io](https://yoongroup.github.io)** 🚀
 
