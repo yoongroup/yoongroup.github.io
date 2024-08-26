@@ -39,7 +39,7 @@ Address: 101 Bagby Ave, Waco, TX 76706, United States [[map](https://maps.app.go
 
 {%
   include feature.html
-  image="http://walshwebsiteassets.blob.core.windows.net/sitedocs/images/georgiatechuawhitakerbiomedicalengineeringbuilding1-8462.jpg](https://images.app.goo.gl/3sY4TF7voGkpYXjNA"
+  image="https://i.pinimg.com/564x/5e/5d/13/5e5d1309da69d9c55537735cfbd2d4c9.jpg"
   headline=""
   text=text
 %}
