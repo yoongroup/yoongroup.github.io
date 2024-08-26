@@ -1,6 +1,6 @@
 ---
 name: Bohak Yoon
-image: images/photo.jpg
+image: images/headshots/yoon.png
 role: pi
 ###affiliation: Baylor University
 aliases:
