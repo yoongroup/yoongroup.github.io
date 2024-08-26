@@ -13,7 +13,7 @@ links:
   linkedin: bohak-yoon
   
 education:
-  - University of Chicago, PostDoc in Theoretical Chemistry (2024)
+  - U of Chicago, PostDoc in Theoretical Chemistry (2024)
   - UT Austin, Ph.D. in Chemical Engineering (2022)
   - Lehigh University, B.S. in Chemical Engineering (2016)
 ---
