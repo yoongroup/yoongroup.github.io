@@ -1,7 +1,7 @@
 ---
 ---
 
-# yoongroupDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+### yoongroupDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
 
 
 
@@ -11,7 +11,7 @@
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are a theoretical and computational chemistry and materials science group!
 
 {%
   include button.html
