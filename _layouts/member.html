@@ -16,6 +16,25 @@ layout: default
 
 {% endcapture %}
 
+{% capture col2 %}
+
+## Biography
+{{ content }}
+
+{% if page.education %}
+### Education
+{% for degree in page.education %}
+- {{ degree }}
+{% endfor %}
+{% endif %}
+
+{% if page.awards %}
+### Honors & Awards
+{% for award in page.awards %}
+- {{ award }}
+{% endfor %}
+{% endif %}
+
 {% include float.html content=floatcontent %}
 
 {{ content }}
