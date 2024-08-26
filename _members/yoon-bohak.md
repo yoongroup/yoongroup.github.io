@@ -10,6 +10,8 @@ links:
   email: bohakyoon@gmail.com
   home-page: https://yoongroup.github.io
   orcid: 0000-0003-1769-6422
+  google-scholar: fFMlDWEAAAAJ
+  linkedin: bohak-yoon
   
 education:
   - University of Chicago, PostDoc in Theoretical Chemistry (2022-2024)
