@@ -13,6 +13,7 @@
   orcid: 0000-0003-1769-6422
   plugin: sources.py
   file: sources.yaml
+  image: ../images/research/yoon-group-research-2024-14.png
 - id: doi:10.1021/jacs.3c03613
   title: Elucidating the Molecular Mechanism of CO<sub>2</sub> Capture by Amino Acid
     Ionic Liquids
@@ -25,6 +26,7 @@
   orcid: 0000-0003-1769-6422
   plugin: sources.py
   file: sources.yaml
+  image: ../images/research/yoon-group-research-2023-13.png
 - id: doi:10.1016/j.seppur.2022.122856
   title: Combined experimental and computational study on the effect of solvent structure
     on developing CO2 biphasic absorbents
@@ -48,6 +50,7 @@
   orcid: 0000-0003-1769-6422
   plugin: sources.py
   file: sources.yaml
+  image: ../images/research/yoon-group-research-2023-12.png
 - id: doi:10.1016/j.jece.2022.108987
   title: Probing strong steric hindrance effects in aqueous alkanolamines for CO2
     capture from first principles
@@ -63,6 +66,7 @@
   orcid: 0000-0003-1769-6422
   plugin: sources.py
   file: sources.yaml
+  image: ../images/research/yoon-group-research-2022-9.png
 - id: doi:10.1016/j.seppur.2022.121861
   title: 'Development of a monoethanolamine/n-butanol biphasic solution with tunable
     phase separation for CO2 absorption via combined experimental and computational
@@ -82,6 +86,7 @@
   orcid: 0000-0003-1769-6422
   plugin: sources.py
   file: sources.yaml
+  image: ../images/research/yoon-group-research-2022-10.png
 - id: doi:10.1021/acssuschemeng.2c02502
   title: 'Intriguing Thermal Degradation Behavior of Aqueous Piperazine for Carbon
     Dioxide Capture: A First-Principles Assessment'
@@ -94,6 +99,7 @@
   orcid: 0000-0003-1769-6422
   plugin: sources.py
   file: sources.yaml
+  image: ../images/research/yoon-group-research-2022-8.png
 - id: doi:10.1016/j.cej.2022.136674
   title: "Combined experimental and computational study on the promising monoethanolamine\_\
     +\_2-(ethylamino)ethanol\_+\_sulfolane biphasic aqueous solution for CO2 absorption"
@@ -111,6 +117,7 @@
   orcid: 0000-0003-1769-6422
   plugin: sources.py
   file: sources.yaml
+  image: ../images/research/yoon-group-research-2022-7.png
 - id: doi:10.26153/TSW/42585
   title: First-principles studies on degradation of aqueous amines for carbon dioxide
     capture
@@ -122,6 +129,7 @@
   orcid: 0000-0003-1769-6422
   plugin: sources.py
   file: sources.yaml
+  image: ../images/research/yoon-group-research-2022-11.png
 - id: doi:10.1021/acs.iecr.1c04987
   title: Facile Carbamic Acid Intermediate Formation in Aqueous Monoethanolamine and
     Its Vital Role in CO<sub>2</sub> Capture Processes
@@ -134,6 +142,7 @@
   orcid: 0000-0003-1769-6422
   plugin: sources.py
   file: sources.yaml
+  image: ../images/research/yoon-group-research-2022-5.png
 - id: doi:10.1002/aic.17701
   title: An experimental/computational study of steric hindrance effects on <scp>CO<sub>2</sub></scp>
     absorption in (non)aqueous amine solutions
@@ -151,6 +160,7 @@
   orcid: 0000-0003-1769-6422
   plugin: sources.py
   file: sources.yaml
+  image: ../images/research/yoon-group-research-2022-6.png
 - id: doi:10.1021/acs.energyfuels.1c02361
   title: First-Principles Assessment of Anomalous Thermal Degradation of Aqueous 2-Amino-2-methyl-1-propanol
     for CO<sub>2</sub> Capture
@@ -163,6 +173,7 @@
   orcid: 0000-0003-1769-6422
   plugin: sources.py
   file: sources.yaml
+  image: ../images/research/yoon-group-research-2021-4.png
 - id: doi:10.1021/acssuschemeng.0c07203
   title: Anomalous Facile Carbamate Formation at High Stripping Temperatures from
     Carbon Dioxide Reaction with 2-Amino-2-methyl-1-propanol in Aqueous Solution
@@ -175,6 +186,7 @@
   orcid: 0000-0003-1769-6422
   plugin: sources.py
   file: sources.yaml
+  image: ../images/research/yoon-group-research-2020-3.png
 - id: doi:10.1039/d0cp02178d
   title: On the mechanism of predominant urea formation from thermal degradation of
     CO<sub>2</sub>-loaded aqueous ethylenediamine
@@ -187,6 +199,7 @@
   orcid: 0000-0003-1769-6422
   plugin: sources.py
   file: sources.yaml
+  image: ../images/research/yoon-group-research-2020-2.png
 - id: doi:10.1039/c9cp04518j
   title: 'Molecular mechanisms for thermal degradation of CO<sub>2</sub>-loaded aqueous
     monoethanolamine solution: a first-principles study'
@@ -200,3 +213,4 @@
   orcid: 0000-0003-1769-6422
   plugin: sources.py
   file: sources.yaml
+  image: ../images/research/yoon-group-research-2019-1.png
