@@ -1,8 +1,7 @@
 ---
 name: Steve Bear
 image: images/headshots/member3.jpg
-role: postdoc
-group: current
+role: current-postdoc
 links:
   github: john-doe
 ---
