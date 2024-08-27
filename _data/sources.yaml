@@ -1,14 +1,20 @@
 - id: doi:10.1021/jacs.3c11808
+  image: ../images/research/yoon-group-research-2024-14.png
 
 - id: doi:10.1021/jacs.3c03613
-
+  image: ../images/research/yoon-group-research-2023-13.png
+  
 - id: doi:10.1016/j.seppur.2022.122856
+  image: ../images/research/yoon-group-research-2023-12.png
 
 - id: doi:10.1016/j.jece.2022.108987
+  image: ../images/research/yoon-group-research-2022-9.png
 
 - id: doi:10.1016/j.seppur.2022.121861
+  image: ../images/research/yoon-group-research-2022-10.png
 
 - id: doi:10.1021/acssuschemeng.2c02502
+  image: ../images/research/yoon-group-research-2022-8.png
 
 - id: doi:10.1016/j.cej.2022.136674
   authors:
@@ -19,10 +25,13 @@
   - Gyeong S. Hwang
   - Min Xiao
   - Zhiwu Liang
+  image: ../images/research/yoon-group-research-2022-7.png
 
 - id: doi:10.26153/TSW/42585
+  image: ../images/research/yoon-group-research-2022-11.png
 
 - id: doi:10.1021/acs.iecr.1c04987
+  image: ../images/research/yoon-group-research-2022-5.png
 
 - id: doi:10.1002/aic.17701
   authors:
@@ -33,18 +42,23 @@
   - Mengjie Chen
   - Gyeong S. Hwang
   - Zhiwu Liang
+  image: ../images/research/yoon-group-research-2022-6.png
 
 - id: doi:10.1021/acs.energyfuels.1c02361
+  image: ../images/research/yoon-group-research-2021-4.png
 
 - id: doi:10.1021/acssuschemeng.0c07203
+  image: ../images/research/yoon-group-research-2020-3.png
 
 - id: doi:10.1039/d0cp02178d
+  image: ../images/research/yoon-group-research-2020-2.png
 
 - id: doi:10.1039/c9cp04518j
   authors:
   - Bohak Yoon#
   - Haley M. Stowe#
   - Gyeong S. Hwang
+  image: ../images/research/yoon-group-research-2019-1.png
 
 #- id: doi:10.1371/journal.pcbi.1007128
 #  type: paper
