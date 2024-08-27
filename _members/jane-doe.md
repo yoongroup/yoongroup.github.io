@@ -1,8 +1,7 @@
 ---
 name: Jane Doe
 image: images/headshots/member2.jpg
-group: current
-role: undergrad
+role: current-undergrad
 links:
   email: sarah.johnson@gmail.com
   twitter: sarahjohnson
