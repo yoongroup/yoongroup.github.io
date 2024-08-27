@@ -1,10 +1,10 @@
 ---
 name: John Doe
-image: images/photo.jpg
+image: images/member1.jpg
 role: phd
 group: alum
 links:
   github: john-doe
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+This can be you! Contact Prof. Bohak Yoon for an open position.
