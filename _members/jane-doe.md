@@ -1,7 +1,7 @@
 ---
 name: Jane Doe
 image: images/headshots/member2.jpg
-group: alum
+group: current
 role: undergrad
 links:
   email: sarah.johnson@gmail.com
