@@ -9,7 +9,7 @@ nav:
 
 Inquiries can be directed to [bohakyoon@gmail.com](mailto:bohakyoon@gmail.com).
 
-We’re looking for highly motivated graduate and undergraduate students and postdocs in the yoon group. Please send an email with your CV, if you’re interested in working with us!
+We’re looking for highly motivated graduate and undergraduate students and postdocs in the Yoon Group. Please send an email with your CV, if you’re interested in working with us!
 
 
 {%
