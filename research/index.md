@@ -2,26 +2,52 @@
 title: Research
 nav:
   order: 1
-  tooltip: Published works
+  tooltip: 
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
 {% include section.html %}
 
-## Highlighted
+## Current Projects
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% capture text %}
+Artificial intelligence and neural network models are emerging technologies.
 
-{% include section.html %}
+{:.center}
+{% endcapture %}
 
-## All
+{%
+  include feature.html
+  image="images/research/yoon-group-research-1.png"
+  headline="artificial-intelligence-neutral-network-models"
+  text=text
+%}
 
-{% include search-box.html %}
+{% capture text %}
+Multiscale modeling will be implemented with enhanced sampling techniques.
 
-{% include search-info.html %}
+<br>
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/research/yoon-group-research-2.png"
+  headline="multiscale-modeling"
+  text=text
+%}
+
+{% capture text %}
+Biomolecular systems will be investigated.
+
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/research/yoon-group-research-3.png"
+  headline="biomolecular-modeling"
+  text=text
+%}
