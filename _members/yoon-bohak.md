@@ -6,6 +6,7 @@ role: pi
 aliases:
   - B. Yoon
   - B Yoon
+  - Bohak Yoon
 links:
   email: bohakyoon@gmail.com
   orcid: 0000-0003-1769-6422
