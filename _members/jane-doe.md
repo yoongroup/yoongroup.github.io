@@ -1,6 +1,6 @@
 ---
 name: Jane Doe
-image: images/member2.jpg
+image: images/headshots/member2.jpg
 group: alum
 role: undergrad
 links:
