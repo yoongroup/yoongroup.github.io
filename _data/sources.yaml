@@ -1,23 +1,52 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+- id: doi:10.1021/jacs.3c11808
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi:10.1021/jacs.3c03613
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1016/j.seppur.2022.122856
+
+- id: doi:10.1016/j.jece.2022.108987
+
+- id: doi:10.1016/j.seppur.2022.121861
+
+- id: doi:10.1021/acssuschemeng.2c02502
+
+- id: doi:10.1016/j.cej.2022.136674
+
+- id: doi:10.26153/TSW/42585
+
+- id: doi:10.1021/acs.iecr.1c04987
+
+- id: doi:10.1002/aic.17701
+
+- id: doi:10.1021/acs.energyfuels.1c02361
+
+- id: doi:10.1021/acssuschemeng.0c07203
+
+- id: doi:10.1039/d0cp02178d
+
+- id: doi:10.1039/c9cp04518j
+
+
+#- id: doi:10.1371/journal.pcbi.1007128
+#  type: paper
+#  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#  date: 2020-12-4
+#  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+#  buttons:
+#    - type: manubot
+#      link: https://greenelab.github.io/meta-review/
+#    - type: source
+#      text: Manuscript Source
+#      link: https://github.com/greenelab/meta-review
+#    - type: website
+#      link: http://manubot.org/
+#  tags:
+#    - open science
+#    - collaboration
+#  repo: greenelab/meta-review
+
+#- id: doi:10.1016/j.csbj.2020.05.017
+#  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+
+#- id: doi:10.7554/eLife.32822
+#  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
