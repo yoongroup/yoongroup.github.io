@@ -11,8 +11,8 @@
   date: '2024-01-03'
   link: https://doi.org/gt7x63
   orcid: 0000-0003-1769-6422
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1021/jacs.3c03613
   title: Elucidating the Molecular Mechanism of CO<sub>2</sub> Capture by Amino Acid
     Ionic Liquids
@@ -23,8 +23,8 @@
   date: '2023-07-13'
   link: https://doi.org/gt7x64
   orcid: 0000-0003-1769-6422
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.seppur.2022.122856
   title: Combined experimental and computational study on the effect of solvent structure
     on developing CO2 biphasic absorbents
@@ -46,8 +46,8 @@
   date: '2023-03-01'
   link: https://doi.org/gsqj7d
   orcid: 0000-0003-1769-6422
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.jece.2022.108987
   title: Probing strong steric hindrance effects in aqueous alkanolamines for CO2
     capture from first principles
@@ -61,8 +61,8 @@
   date: '2022-12-01'
   link: https://doi.org/gsvjwv
   orcid: 0000-0003-1769-6422
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.seppur.2022.121861
   title: 'Development of a monoethanolamine/n-butanol biphasic solution with tunable
     phase separation for CO2 absorption via combined experimental and computational
@@ -80,8 +80,8 @@
   date: '2022-11-01'
   link: https://doi.org/gsqj7n
   orcid: 0000-0003-1769-6422
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1021/acssuschemeng.2c02502
   title: 'Intriguing Thermal Degradation Behavior of Aqueous Piperazine for Carbon
     Dioxide Capture: A First-Principles Assessment'
@@ -92,8 +92,8 @@
   date: '2022-07-14'
   link: https://doi.org/gt7x65
   orcid: 0000-0003-1769-6422
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.cej.2022.136674
   title: "Combined experimental and computational study on the promising monoethanolamine\_\
     +\_2-(ethylamino)ethanol\_+\_sulfolane biphasic aqueous solution for CO2 absorption"
@@ -109,8 +109,8 @@
   date: '2022-10-01'
   link: https://doi.org/gsqj7f
   orcid: 0000-0003-1769-6422
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.26153/TSW/42585
   title: First-principles studies on degradation of aqueous amines for carbon dioxide
     capture
@@ -120,8 +120,8 @@
   date: '2022-04-27'
   link: https://doi.org/gt7x66
   orcid: 0000-0003-1769-6422
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1021/acs.iecr.1c04987
   title: Facile Carbamic Acid Intermediate Formation in Aqueous Monoethanolamine and
     Its Vital Role in CO<sub>2</sub> Capture Processes
@@ -132,8 +132,8 @@
   date: '2022-03-21'
   link: https://doi.org/gpv24q
   orcid: 0000-0003-1769-6422
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1002/aic.17701
   title: An experimental/computational study of steric hindrance effects on <scp>CO<sub>2</sub></scp>
     absorption in (non)aqueous amine solutions
@@ -149,8 +149,8 @@
   date: '2022-04-12'
   link: https://doi.org/gp64x8
   orcid: 0000-0003-1769-6422
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1021/acs.energyfuels.1c02361
   title: First-Principles Assessment of Anomalous Thermal Degradation of Aqueous 2-Amino-2-methyl-1-propanol
     for CO<sub>2</sub> Capture
@@ -161,8 +161,8 @@
   date: '2021-10-08'
   link: https://doi.org/gt7x67
   orcid: 0000-0003-1769-6422
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1021/acssuschemeng.0c07203
   title: Anomalous Facile Carbamate Formation at High Stripping Temperatures from
     Carbon Dioxide Reaction with 2-Amino-2-methyl-1-propanol in Aqueous Solution
@@ -173,8 +173,8 @@
   date: '2020-12-09'
   link: https://doi.org/gt7x68
   orcid: 0000-0003-1769-6422
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1039/d0cp02178d
   title: On the mechanism of predominant urea formation from thermal degradation of
     CO<sub>2</sub>-loaded aqueous ethylenediamine
@@ -185,8 +185,8 @@
   date: '2020-01-01'
   link: https://doi.org/gt7x69
   orcid: 0000-0003-1769-6422
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1039/c9cp04518j
   title: 'Molecular mechanisms for thermal degradation of CO<sub>2</sub>-loaded aqueous
     monoethanolamine solution: a first-principles study'
@@ -198,63 +198,5 @@
   date: '2019-01-01'
   link: https://doi.org/gt7x7b
   orcid: 0000-0003-1769-6422
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
   plugin: sources.py
   file: sources.yaml
