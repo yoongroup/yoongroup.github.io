@@ -98,8 +98,8 @@
   title: "Combined experimental and computational study on the promising monoethanolamine\_\
     +\_2-(ethylamino)ethanol\_+\_sulfolane biphasic aqueous solution for CO2 absorption"
   authors:
-  - Qinlan Luo
-  - Bohak Yoon
+  - Qinlan Luo#
+  - Bohak Yoon#
   - Hongxia Gao
   - Juan Lv
   - Gyeong S. Hwang
@@ -138,9 +138,9 @@
   title: An experimental/computational study of steric hindrance effects on <scp>CO<sub>2</sub></scp>
     absorption in (non)aqueous amine solutions
   authors:
-  - Qinlan Luo
-  - Rui Dong
-  - Bohak Yoon
+  - Qinlan Luo#
+  - Rui Dong#
+  - Bohak Yoon#
   - Hongxia Gao
   - Mengjie Chen
   - Gyeong S. Hwang
@@ -191,8 +191,8 @@
   title: 'Molecular mechanisms for thermal degradation of CO<sub>2</sub>-loaded aqueous
     monoethanolamine solution: a first-principles study'
   authors:
-  - Bohak Yoon
-  - Haley M. Stowe
+  - Bohak Yoon#
+  - Haley M. Stowe#
   - Gyeong S. Hwang
   publisher: Physical Chemistry Chemical Physics
   date: '2019-01-01'
