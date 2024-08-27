@@ -1,9 +1,9 @@
 # site properties and page defaults
-title: yoon group
+title: Yoon Group
 subtitle: 
-description: 
-header: images/background.jpg
-footer: images/background.jpg
+description: Harnessing computational materials design and discovery
+header: images/welcome2.jpg
+footer: images/welcome2.jpg
 proofer: false
 
 # site social media and other links
