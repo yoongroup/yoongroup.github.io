@@ -6,15 +6,15 @@ pi:
   icon: fa-solid fa-microscope
   description: Principal Investigator
 
-postdoc:
+current-postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
 
-phd:
+current-phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
-undergrad:
+current-undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
@@ -25,6 +25,39 @@ programmer:
 mascot:
   icon: fa-solid fa-dog
   description: Mascot
+
+# alumni roles
+alum-manager:
+  icon: fa-solid fa-hand-spock
+  description: Former Lab Manager
+
+alum-technician:
+  icon: fa-solid fa-hand-spock
+  description: Former Research Technician
+
+alum-postdoc:
+  icon: fa-solid fa-hand-spock
+  description: Former Postdoctoral Researcher
+
+alum-phd:
+  icon: fa-solid fa-hand-spock
+  description: Former PhD Student
+
+alum-ms:
+  icon: fa-solid fa-hand-spock
+  description: Former MS Student
+
+alum-rotation:
+  icon: fa-solid fa-hand-spock
+  description: Former Rotation Student
+
+alum-undergrad:
+  icon: fa-solid fa-hand-spock
+  description: Former Undergraduate Student
+
+alum-hs:
+  icon: fa-solid fa-hand-spock
+  description: Former High School Student
 
 # general
 
