@@ -2,7 +2,7 @@
 name: John Doe
 image: images/headshots/member1.jpg
 role: phd
-group: alum
+group: current
 links:
   github: john-doe
 ---
