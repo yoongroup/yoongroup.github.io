@@ -13,11 +13,13 @@ links:
   linkedin: bohak-yoon
   
 education:
-  - U of Chicago, PostDoc in Theoretical Chemistry (2024)
+  - UChicago, PostDoc in Theoretical Chemistry (2024)
   - UT Austin, Ph.D. in Chemical Engineering (2022)
   - Lehigh University, B.S. in Chemical Engineering (2016)
 ---
 
-Bohak is an Assistant Professor in the Department of Chemistry and Biochemistry at Baylor University.
-His research interests are in theoretical chemistry and multiscale modeling in energy and sustainability challenges.
+Bohak Yoon is an Assistant Professor in the Department of Chemistry and Biochemistry and Materials Science at Baylor University.
+He earned his Ph.D. in Chemical Engineering from the University of Texas at Austin and his B.S. in Chemical Engineering from Lehigh University.
+Following his doctoral studies, he completed his postdoctoral training in Theoretical Chemistry from the University of Chicago.
+His research focuses on developing and applying theoretical chemistry and multiscale modeling towards energy and sustainability challenges.
 
