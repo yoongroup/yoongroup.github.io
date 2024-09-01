@@ -20,7 +20,7 @@ education:
 ---
 
 Bohak Yoon is an Assistant Professor in the Department of Chemistry and Biochemistry and Materials Science and Engineering at Baylor University.
-He completed his postdoctoral training in Theoretical Chemistry under the mentorship of Prof. Gregory A. Voth at the University of Chicago.
+He completed his postdoctoral training in Theoretical Chemistry under the mentorship of [Prof. Gregory A. Voth](https://en.wikipedia.org/wiki/Gregory_A._Voth) at the University of Chicago.
 Prior to that, he earned his Ph.D. in Chemical Engineering from the University of Texas at Austin.
 His research focuses on developing and applying theoretical chemistry and multiscale modeling at the intersection of biology, energy, and sustainability.
 
