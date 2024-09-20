@@ -4,7 +4,7 @@
 
 pi:
   #icon: fa-solid fa-microscope
-  icon: fa-solid fa-screen-users
+  icon: fa-solid fa-users-gear
   description: Principal Investigator
 
 current-postdoc:
@@ -18,7 +18,7 @@ current-phd:
 
 current-undergrad:
   #icon: fa-solid fa-user-graduate
-  icon: fa-regular fa-pencil
+  icon: fa-solid fa-pencil
   description: Undergraduate Student
 
 programmer:
