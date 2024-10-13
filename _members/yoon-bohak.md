@@ -12,9 +12,9 @@ links:
   orcid: 0000-0003-1769-6422
   google-scholar: fFMlDWEAAAAJ
   linkedin: bohak-yoon
-  website: https://yoongroup.github.io
-  twitter: BohakYoon
-  cv: assets/CV_BohakYoon_Oct2024.pdf
+###  website: https://yoongroup.github.io
+###  twitter: BohakYoon
+###  cv: assets/CV_BohakYoon_Oct2024.pdf
 
   
 education:
