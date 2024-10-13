@@ -12,6 +12,8 @@ links:
   orcid: 0000-0003-1769-6422
   google-scholar: fFMlDWEAAAAJ
   linkedin: bohak-yoon
+  cv: assets/CV_BohakYoon_Oct2024.pdf
+  webpage: https://yoongroup.github.io
   
 education:
   - UChicago, PostDoc in Theoretical Chemistry (2024)
