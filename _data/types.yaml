@@ -107,7 +107,7 @@ search:
   tooltip: Search
 
 cv:
-  icon: fa-solid fa-file-pdf
+  icon: fa-regular fa-file-pdf
   text: CV
   tooltip: CV
 
