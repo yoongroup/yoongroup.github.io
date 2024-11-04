@@ -1,5 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1002/advs.202406281
+  title: "Impact of Side Chains in 1\u2010<i>n</i>\u2010Alkylimidazolium Ionomers\
+    \ on Cu\u2010Catalyzed Electrochemical CO<sub>2</sub> Reduction"
+  authors:
+  - Young In Song
+  - Bohak Yoon
+  - Chanwoo Lee
+  - Dogyeong Kim
+  - Man Ho Han
+  - Hyungu Han
+  - Woong Hee Lee
+  - Da Hye Won
+  - Jung Kyu Kim
+  - Hyo Sang Jeon
+  - Jai Hyun Koh
+  publisher: Advanced Science
+  date: '2024-10-31'
+  link: https://doi.org/g8p4mx
+  orcid: 0000-0003-1769-6422
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1021/jacs.3c11808
   title: On the Key Influence of Amino Acid Ionic Liquid Anions on CO<sub>2</sub>
     Capture
