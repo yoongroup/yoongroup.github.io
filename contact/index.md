@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Inquiries can be directed to [bohakyoon@gmail.com](mailto:bohakyoon@gmail.com).
+Inquiries can be directed to [bohak_yoon@baylor.edu](mailto:bohak_yoon@baylor.edu).
 
 We’re looking for highly motivated graduate and undergraduate students and postdocs in the Yoon Group. Please send an email with your CV, if you’re interested in working with us!
 
@@ -15,8 +15,8 @@ We’re looking for highly motivated graduate and undergraduate students and pos
 {%
   include button.html
   type="email"
-  text="bohakyoon@gmail.com"
-  link="bohakyoon@gmail.com"
+  text="bohak_yoon@baylor.edu"
+  link="bohak_yoon@baylor.edu"
 %}
 
 {%
