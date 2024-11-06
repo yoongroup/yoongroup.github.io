@@ -8,7 +8,7 @@ aliases:
   - B Yoon
   - Bohak Yoon
 links:
-  email: bohakyoon@gmail.com
+  email: bohak_yoon@baylor.edu
   orcid: 0000-0003-1769-6422
   google-scholar: fFMlDWEAAAAJ
   linkedin: bohak-yoon
