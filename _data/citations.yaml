@@ -109,19 +109,6 @@
   plugin: sources.py
   file: sources.yaml
   image: ../images/research/yoon-group-research-2022-10.png
-- id: doi:10.1021/acssuschemeng.2c02502
-  title: 'Intriguing Thermal Degradation Behavior of Aqueous Piperazine for Carbon
-    Dioxide Capture: A First-Principles Assessment'
-  authors:
-  - Bohak Yoon
-  - Gyeong S. Hwang
-  publisher: ACS Sustainable Chemistry &amp; Engineering
-  date: '2022-07-14'
-  link: https://doi.org/gt7x65
-  orcid: 0000-0003-1769-6422
-  plugin: sources.py
-  file: sources.yaml
-  image: ../images/research/yoon-group-research-2022-8.png
 - id: doi:10.1016/j.cej.2022.136674
   title: "Combined experimental and computational study on the promising monoethanolamine\_\
     +\_2-(ethylamino)ethanol\_+\_sulfolane biphasic aqueous solution for CO2 absorption"
@@ -140,6 +127,19 @@
   plugin: sources.py
   file: sources.yaml
   image: ../images/research/yoon-group-research-2022-7.png
+- id: doi:10.1021/acssuschemeng.2c02502
+  title: 'Intriguing Thermal Degradation Behavior of Aqueous Piperazine for Carbon
+    Dioxide Capture: A First-Principles Assessment'
+  authors:
+  - Bohak Yoon
+  - Gyeong S. Hwang
+  publisher: ACS Sustainable Chemistry &amp; Engineering
+  date: '2022-07-14'
+  link: https://doi.org/gt7x65
+  orcid: 0000-0003-1769-6422
+  plugin: sources.py
+  file: sources.yaml
+  image: ../images/research/yoon-group-research-2022-8.png
 - id: doi:10.26153/TSW/42585
   title: First-principles studies on degradation of aqueous amines for carbon dioxide
     capture
@@ -152,19 +152,6 @@
   plugin: sources.py
   file: sources.yaml
   image: ../images/research/yoon-group-research-2022-11.png
-- id: doi:10.1021/acs.iecr.1c04987
-  title: Facile Carbamic Acid Intermediate Formation in Aqueous Monoethanolamine and
-    Its Vital Role in CO<sub>2</sub> Capture Processes
-  authors:
-  - Bohak Yoon
-  - Gyeong S. Hwang
-  publisher: Industrial &amp; Engineering Chemistry Research
-  date: '2022-03-21'
-  link: https://doi.org/gpv24q
-  orcid: 0000-0003-1769-6422
-  plugin: sources.py
-  file: sources.yaml
-  image: ../images/research/yoon-group-research-2022-5.png
 - id: doi:10.1002/aic.17701
   title: An experimental/computational study of steric hindrance effects on <scp>CO<sub>2</sub></scp>
     absorption in (non)aqueous amine solutions
@@ -183,6 +170,19 @@
   plugin: sources.py
   file: sources.yaml
   image: ../images/research/yoon-group-research-2022-6.png
+- id: doi:10.1021/acs.iecr.1c04987
+  title: Facile Carbamic Acid Intermediate Formation in Aqueous Monoethanolamine and
+    Its Vital Role in CO<sub>2</sub> Capture Processes
+  authors:
+  - Bohak Yoon
+  - Gyeong S. Hwang
+  publisher: Industrial &amp; Engineering Chemistry Research
+  date: '2022-03-21'
+  link: https://doi.org/gpv24q
+  orcid: 0000-0003-1769-6422
+  plugin: sources.py
+  file: sources.yaml
+  image: ../images/research/yoon-group-research-2022-5.png
 - id: doi:10.1021/acs.energyfuels.1c02361
   title: First-Principles Assessment of Anomalous Thermal Degradation of Aqueous 2-Amino-2-methyl-1-propanol
     for CO<sub>2</sub> Capture
