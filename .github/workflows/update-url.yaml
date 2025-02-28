@@ -16,7 +16,7 @@ permissions:
 
 jobs:
   update-url:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
 
     steps:
       # for debugging
