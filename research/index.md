@@ -25,6 +25,19 @@ Harnessing and implementing artificial intelligence (AI) and neural network mode
 %}
 
 {% capture text %}
+Our group employs Path Integral Molecular Dynamics (PIMD) to capture essential quantum effects, such as **zero-point energy (ZPE) retention, quantum tunneling, and nuclear delocalization**, which play a crucial role in **chemical reactivity, catalysis, and condensed-phase molecular systems**. We utilize **ring-polymer molecular dynamics (RPMD)** to compute reaction rates and dynamical properties while incorporating quantum fluctuations, and **centroid molecular dynamics (CMD)** to extract quantum-corrected correlation functions for transport and thermodynamic properties. These methods allow us to investigate **isotope effects, proton and hydrogen transfer, phase transitions, and nuclear quantum effects in materials and aqueous systems**, which are not accessible through classical simulations. By systematically incorporating quantum nuclear behavior, our approach provides a more accurate molecular-level understanding of **reaction mechanisms, charge transport, and structural dynamics in complex environments**. Our work bridges the gap between classical and quantum models, offering deeper insights into fundamental processes that govern **sustainable energy systems, catalysis, and environmental chemistry**.
+
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/research/yoon-group-research-4.png"
+  headline="path-integral-molecular-dynamics"
+  text=text
+%}
+
+{% capture text %}
 Developing and applying multiscale simulations, from quantum mechanics to coarse-grained molecular dynamics and continuum scale modeling, is essential for addressing energy and sustainability challenges. These simulations enable us to understand and optimize complex processes across different scales, from atomic-level reactions to large-scale system behavior, which is critical for designing efficient energy conversion and storage systems. By integrating and connecting insights from various scales with enhanced sampling methods, we can develop more sustainable materials and technologies, such as advanced biological and catalytic processes, that minimize environmental impact. Additionally, this approach helps in predicting the performance and lifetime of energy-related materials and systems under realistic operating conditions, guiding the development of future sustainable solutions.
 
 <br>
