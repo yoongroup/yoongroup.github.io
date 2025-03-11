@@ -13,7 +13,8 @@ $wrap: 800px;
   margin: 20px 0;
   border-radius: var(--rounded);
   background: var(--background);
-  overflow: hidden;
+  //overflow: hidden;
+  overflow: visible;
   box-shadow: var(--shadow);
 }
 
