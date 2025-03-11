@@ -13,7 +13,7 @@
 
 .figure-image img {
   border-radius: var(--rounded);
-  overflow: hidden;
+  overflow: visible;
   box-shadow: var(--shadow);
 }
 
