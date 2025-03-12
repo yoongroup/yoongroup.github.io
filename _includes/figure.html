@@ -9,11 +9,14 @@
     <img
       src="{{ include.image | relative_url }}"
       style="
-        width: {{ include.width | default: "auto" }};
-        max-height: {{ include.height | default: "unset" }};
+        display: block;
+        width: 100%;
+        max-width: 100%;
+        height: auto;
+        object-fit: contain;
+        overflow: visible;
       "
       alt="{{ include.caption | default: "figure image" }}"
-      loading="lazy"
       {% include fallback.html %}
     >
   </a>
