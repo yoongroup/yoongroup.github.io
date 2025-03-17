@@ -1,7 +1,7 @@
 ---
 ---
-# Harnessing computational materials design and discovery
-The Yoon Group is a center of excellence for Theoretical Chemistry, Multiscale Computational Modeling, and Artificial Intelligence research, teaching, and practice towards Materials Design and Discovery for energy and sustainability challenges.
+# Harnessing Computation and AI for Materials Design in Energy and Sustainability
+The Yoon Group advances theoretical chemistry, multiscale modeling, and AI to accelerate materials discovery for energy, green chemistry, and sustainability. Our research drives the development of environmentally sustainable materials and processes for a carbon-neutral future.
 
 {%
   include figure.html
