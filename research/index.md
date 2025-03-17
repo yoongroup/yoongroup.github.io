@@ -25,7 +25,19 @@ Harnessing and implementing artificial intelligence (AI) and neural network mode
 %}
 
 {% capture text %}
+Our group leverages cutting-edge multiscale simulations and physics-based machine learning to investigate the molecular mechanisms of biomass conversion into value-added chemicals and fuels. By modeling thermodynamic and kinetic processes at the atomic and molecular level, we aim to unravel reaction pathways and optimize catalyst-solvent environments for efficient, sustainable transformation of lignocellulosic, aquatic, and waste-derived biomasses. These computational insights guide the rational design of green processing strategies, supporting innovations in carbon-neutral chemical processes. Through theory- and computation-driven discovery, we contribute to the broader goal of sustainable energy and the advancement of green chemistry.
 
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/research/yoon-group-research-5.png"
+  headline="biomass-conversion"
+  text=text
+%}
+
+{% capture text %}
 Our group employs advanced molecular dynamics techniques to capture essential quantum effects, such as zero-point energy (ZPE) retention, quantum tunneling, and nuclear delocalization, which are critical for understanding chemical reactivity, catalysis, and condensed-phase molecular systems. We leverage quantum-enhanced simulation methods to compute reaction rates, dynamical properties, and quantum-corrected correlation functions, enabling accurate descriptions of transport and thermodynamic behavior. These approaches allow us to investigate isotope effects, proton and hydrogen transfer, phase transitions, and nuclear quantum effects in materials, aqueous, and condensed phase systems, which are not accessible through classical simulations. By systematically incorporating nuclear quantum effects, our research provides a more accurate molecular-level understanding of reaction mechanisms, charge transport, and structural dynamics in complex environments. Our work bridges the gap between classical and quantum models, offering deeper insights into fundamental processes that govern sustainable energy systems, catalysis, and environmental chemistry.
 
 {:.center}
