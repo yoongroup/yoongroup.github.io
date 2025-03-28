@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1021/acs.jpclett.5c00349
+  title: Metastable Shared Proton Complexes in Aqueous Sulfuric Acid Solutions
+  authors:
+  - Sijia Chen
+  - Bohak Yoon
+  - Jiangbo Wu
+  - Gregory A. Voth
+  publisher: The Journal of Physical Chemistry Letters
+  date: '2025-03-23'
+  link: https://doi.org/g89467
+  orcid: 0000-0003-1769-6422
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/advs.202406281
   title: "Impact of Side Chains in 1\u2010<i>n</i>\u2010Alkylimidazolium Ionomers\
     \ on Cu\u2010Catalyzed Electrochemical CO<sub>2</sub> Reduction"
