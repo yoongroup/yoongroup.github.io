@@ -2,11 +2,11 @@
 
 - id: doi:10.1016/j.seppur.2025.133908
   title: 'Tailoring amine activators in MDEA/NHD/H2O biphasic absorbents for energy-efficient
-    CO2 capture: Mechanistic insights into polarity-driven phase separation and multi-component
-    synergy'
+    CO<sub>2</sub> capture: Mechanistic insights into polarity-driven phase separation
+    and multi-component synergy'
   authors:
-  - Dingkai Hu
-  - Bohak Yoon
+  - Dingkai Hu#
+  - Bohak Yoon#
   - Yanlong Hu
   - Dezhi Cao
   - Qiang Wang
@@ -16,8 +16,9 @@
   date: '2025-12-01'
   link: https://doi.org/g9qpr3
   orcid: 0000-0003-1769-6422
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: ../images/research/yoon-group-research-2025-18.png
 - id: doi:10.1021/acssuschemeng.5c02555
   title: Quantum Chemistry-Guided Machine Learning for Accelerated Design of CO<sub>2</sub>-Solubilizing
     Deep Eutectic Solvents
@@ -25,14 +26,15 @@
   - Dingkai Hu
   - Dezhi Cao
   - Shi-jian Lu
-  - Qiang Wang
-  - Bohak Yoon
+  - Qiang Wang*
+  - Bohak Yoon*
   publisher: ACS Sustainable Chemistry &amp; Engineering
   date: '2025-06-16'
   link: https://doi.org/g9qpr6
   orcid: 0000-0003-1769-6422
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: ../images/research/yoon-group-research-2025-17.png
 - id: doi:10.1021/acs.jpclett.5c00349
   title: Metastable Shared Proton Complexes in Aqueous Sulfuric Acid Solutions
   authors:
@@ -273,8 +275,8 @@
   title: 'Molecular mechanisms for thermal degradation of CO<sub>2</sub>-loaded aqueous
     monoethanolamine solution: a first-principles study'
   authors:
-  - Bohak Yoon#
-  - Haley M. Stowe#
+  - Bohak Yoon
+  - Haley M. Stowe
   - Gyeong S. Hwang
   publisher: Physical Chemistry Chemical Physics
   date: '2019-01-01'
