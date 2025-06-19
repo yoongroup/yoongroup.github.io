@@ -1,13 +1,3 @@
-- id: doi:10.1021/acssuschemeng.5c02555
-  title: "Quantum Chemistry-Guided Machine Learning for Accelerated Design of CO<sub>2</sub>-Solubilizing Deep Eutectic Solvents"
-  authors:
-  - Dingkai Hu
-  - Dezhi Cao
-  - Shi-jian Lu
-  - Qiang Wang*
-  - Bohak Yoon*
-  image: ../images/research/yoon-group-research-2025-17.png
-
 - id: doi:10.1016/j.seppur.2025.133908
   title: "Tailoring amine activators in MDEA/NHD/H2O biphasic absorbents for energy-efficient CO<sub>2</sub> capture: Mechanistic insights into polarity-driven phase separation and multi-component synergy"
   authors:
@@ -19,6 +9,16 @@
   - Bin Wang
   - Shijian Lu
   image: ../images/research/yoon-group-research-2025-18.png
+
+- id: doi:10.1021/acssuschemeng.5c02555
+  title: "Quantum Chemistry-Guided Machine Learning for Accelerated Design of CO<sub>2</sub>-Solubilizing Deep Eutectic Solvents"
+  authors:
+  - Dingkai Hu
+  - Dezhi Cao
+  - Shi-jian Lu
+  - Qiang Wang*
+  - Bohak Yoon*
+  image: ../images/research/yoon-group-research-2025-17.png
 
 - id: doi:10.1021/acs.jpclett.5c00349
   image: ../images/research/yoon-group-research-2025-16.png
