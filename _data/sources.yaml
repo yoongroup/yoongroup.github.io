@@ -1,7 +1,7 @@
 - id: doi:10.1016/j.seppur.2025.133908
   title: "Tailoring amine activators in MDEA/NHD/H2O biphasic absorbents for energy-efficient CO<sub>2</sub> capture: Mechanistic insights into polarity-driven phase separation and multi-component synergy"
   authors:
-  - Dingkai Hu#
+  - Dingkai Hu<b>#</b>
   - <b>Bohak Yoon#</b>
   - Yanlong Hu
   - Dezhi Cao
@@ -16,18 +16,23 @@
   - Dingkai Hu
   - Dezhi Cao
   - Shi-jian Lu
-  - Qiang Wang\*
-  - Bohak Yoon\*
+  - Qiang Wang<b>\*</b>
+  - <b>Bohak Yoon\*</b>
   image: ../images/research/yoon-group-research-2025-17.png
 
 - id: doi:10.1021/acs.jpclett.5c00349
+  authors:
+  - Sijia Chen
+  - <b>Bohak Yoon</b>
+  - Jiangbo Wu
+  - Gregory A. Voth
   image: ../images/research/yoon-group-research-2025-16.png
 
 - id: doi:10.1002/advs.202406281
   title: "Impact of Side Chains in 1\u2010<i>n</i>\u2010Alkylimidazolium Ionomers on Cu\u2010Catalyzed Electrochemical CO<sub>2</sub> Reduction"
   authors:
-  - Young In Song#
-  - Bohak Yoon#
+  - Young In Song<b>#</b>
+  - <b>Bohak Yoon#</b>
   - Chanwoo Lee
   - Dogyeong Kim
   - Man Ho Han
@@ -40,27 +45,66 @@
   image: ../images/research/yoon-group-research-2024-15.png
 
 - id: doi:10.1021/jacs.3c11808
+  authors:
+  - <b>Bohak Yoon</b>
+  - Sijia Chen
+  - Gregory A. Voth
   image: ../images/research/yoon-group-research-2024-14.png
 
 - id: doi:10.1021/jacs.3c03613
+  authors:
+  - <b>Bohak Yoon</b>
+  - Gregory A. Voth
   image: ../images/research/yoon-group-research-2023-13.png
-  
+
 - id: doi:10.1016/j.seppur.2022.122856
+  authors:
+  - Qinlan Luo
+  - Yan Ouyang
+  - Shumin Hong
+  - Nan Wang
+  - Yuanyuan Li
+  - Hongxia Gao
+  - Gyeong S. Hwang
+  - <b>Bohak Yoon</b>
+  - Teerawat Sema
+  - Paitoon Tontiwachwuthikul
+  - Peng Luo
+  - Chintana Saiwan
+  - Zhiwu Liang
   image: ../images/research/yoon-group-research-2023-12.png
 
 - id: doi:10.1016/j.jece.2022.108987
+  authors:
+  - <b>Bohak Yoon</b>
+  - David C. Calabro
+  - Lisa Saunders Baugh
+  - Sumathy Raman
+  - Gyeong S. Hwang
   image: ../images/research/yoon-group-research-2022-9.png
 
 - id: doi:10.1016/j.seppur.2022.121861
+  authors:
+  - Qinlan Luo
+  - Shumin Hong
+  - Hongxia Gao
+  - Yuanyuan Li
+  - Nan Wang
+  - Gyeong S. Hwang
+  - <b>Bohak Yoon</b>
+  - Zhiwu Liang
   image: ../images/research/yoon-group-research-2022-10.png
 
 - id: doi:10.1021/acssuschemeng.2c02502
+  authors:
+  - <b>Bohak Yoon</b>
+  - Gyeong S. Hwang
   image: ../images/research/yoon-group-research-2022-8.png
 
 - id: doi:10.1016/j.cej.2022.136674
   authors:
-  - Qinlan Luo#
-  - Bohak Yoon#
+  - Qinlan Luo<b>#</b>
+  - <b>Bohak Yoon#</b>
   - Hongxia Gao
   - Juan Lv
   - Gyeong S. Hwang
@@ -69,16 +113,21 @@
   image: ../images/research/yoon-group-research-2022-7.png
 
 - id: doi:10.26153/TSW/42585
+  authors:
+  - <b>Bohak Yoon</b>
   image: ../images/research/yoon-group-research-2022-11.png
 
 - id: doi:10.1021/acs.iecr.1c04987
+  authors:
+  - <b>Bohak Yoon</b>
+  - Gyeong S. Hwang
   image: ../images/research/yoon-group-research-2022-5.png
 
 - id: doi:10.1002/aic.17701
   authors:
-  - Qinlan Luo#
-  - Rui Dong#
-  - Bohak Yoon#
+  - Qinlan Luo<b>#</b>
+  - Rui Dong<b>#</b>
+  - <b>Bohak Yoon#</b>
   - Hongxia Gao
   - Mengjie Chen
   - Gyeong S. Hwang
@@ -86,17 +135,26 @@
   image: ../images/research/yoon-group-research-2022-6.png
 
 - id: doi:10.1021/acs.energyfuels.1c02361
+  authors:
+  - <b>Bohak Yoon</b>
+  - Gyeong S. Hwang
   image: ../images/research/yoon-group-research-2021-4.png
 
 - id: doi:10.1021/acssuschemeng.0c07203
+  authors:
+  - <b>Bohak Yoon</b>
+  - Gyeong S. Hwang
   image: ../images/research/yoon-group-research-2020-3.png
 
 - id: doi:10.1039/d0cp02178d
+  authors:
+  - <b>Bohak Yoon</b>
+  - Gyeong S. Hwang
   image: ../images/research/yoon-group-research-2020-2.png
 
 - id: doi:10.1039/c9cp04518j
   authors:
-  - Bohak Yoon
+  - <b>Bohak Yoon</b>
   - Haley M. Stowe
   - Gyeong S. Hwang
   image: ../images/research/yoon-group-research-2019-1.png
