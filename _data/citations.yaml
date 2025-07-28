@@ -5,7 +5,7 @@
     CO<sub>2</sub> capture: Mechanistic insights into polarity-driven phase separation
     and multi-component synergy'
   authors:
-  - Dingkai Hu<b>#</b>
+  - Dingkai Hu#
   - <b>Bohak Yoon#</b>
   - Yanlong Hu
   - Dezhi Cao
@@ -19,6 +19,7 @@
   plugin: sources.py
   file: sources.yaml
   image: ../images/research/yoon-group-research-2025-18.png
+  
 - id: doi:10.1021/acssuschemeng.5c02555
   title: Quantum Chemistry-Guided Machine Learning for Accelerated Design of CO<sub>2</sub>-Solubilizing
     Deep Eutectic Solvents
@@ -26,7 +27,7 @@
   - Dingkai Hu
   - Dezhi Cao
   - Shi-jian Lu
-  - Qiang Wang<b>\*</b>
+  - Qiang Wang\*
   - <b>Bohak Yoon\*</b>
   publisher: ACS Sustainable Chemistry &amp; Engineering
   date: '2025-06-16'
@@ -35,6 +36,7 @@
   plugin: sources.py
   file: sources.yaml
   image: ../images/research/yoon-group-research-2025-17.png
+  
 - id: doi:10.1021/acs.jpclett.5c00349
   title: Metastable Shared Proton Complexes in Aqueous Sulfuric Acid Solutions
   authors:
@@ -49,11 +51,12 @@
   plugin: sources.py
   file: sources.yaml
   image: ../images/research/yoon-group-research-2025-16.png
+  
 - id: doi:10.1002/advs.202406281
   title: "Impact of Side Chains in 1\u2010<i>n</i>\u2010Alkylimidazolium Ionomers\
     \ on Cu\u2010Catalyzed Electrochemical CO<sub>2</sub> Reduction"
   authors:
-  - Young In Song<b>#</b>
+  - Young In Song#
   - <b>Bohak Yoon#</b>
   - Chanwoo Lee
   - Dogyeong Kim
@@ -71,6 +74,7 @@
   plugin: sources.py
   file: sources.yaml
   image: ../images/research/yoon-group-research-2024-15.png
+  
 - id: doi:10.1021/jacs.3c11808
   title: On the Key Influence of Amino Acid Ionic Liquid Anions on CO<sub>2</sub>
     Capture
@@ -85,6 +89,7 @@
   plugin: sources.py
   file: sources.yaml
   image: ../images/research/yoon-group-research-2024-14.png
+  
 - id: doi:10.1021/jacs.3c03613
   title: Elucidating the Molecular Mechanism of CO<sub>2</sub> Capture by Amino Acid
     Ionic Liquids
@@ -98,6 +103,7 @@
   plugin: sources.py
   file: sources.yaml
   image: ../images/research/yoon-group-research-2023-13.png
+  
 - id: doi:10.1016/j.seppur.2022.122856
   title: Combined experimental and computational study on the effect of solvent structure
     on developing CO2 biphasic absorbents
@@ -122,6 +128,7 @@
   plugin: sources.py
   file: sources.yaml
   image: ../images/research/yoon-group-research-2023-12.png
+  
 - id: doi:10.1016/j.jece.2022.108987
   title: Probing strong steric hindrance effects in aqueous alkanolamines for CO2
     capture from first principles
@@ -138,6 +145,7 @@
   plugin: sources.py
   file: sources.yaml
   image: ../images/research/yoon-group-research-2022-9.png
+  
 - id: doi:10.1016/j.seppur.2022.121861
   title: 'Development of a monoethanolamine/n-butanol biphasic solution with tunable
     phase separation for CO2 absorption via combined experimental and computational
@@ -158,11 +166,12 @@
   plugin: sources.py
   file: sources.yaml
   image: ../images/research/yoon-group-research-2022-10.png
+  
 - id: doi:10.1016/j.cej.2022.136674
   title: "Combined experimental and computational study on the promising monoethanolamine\_\
     +\_2-(ethylamino)ethanol\_+\_sulfolane biphasic aqueous solution for CO2 absorption"
   authors:
-  - Qinlan Luo<b>#</b>
+  - Qinlan Luo#
   - <b>Bohak Yoon#</b>
   - Hongxia Gao
   - Juan Lv
@@ -176,6 +185,7 @@
   plugin: sources.py
   file: sources.yaml
   image: ../images/research/yoon-group-research-2022-7.png
+  
 - id: doi:10.1021/acssuschemeng.2c02502
   title: 'Intriguing Thermal Degradation Behavior of Aqueous Piperazine for Carbon
     Dioxide Capture: A First-Principles Assessment'
@@ -189,6 +199,7 @@
   plugin: sources.py
   file: sources.yaml
   image: ../images/research/yoon-group-research-2022-8.png
+  
 - id: doi:10.26153/TSW/42585
   title: First-principles studies on degradation of aqueous amines for carbon dioxide
     capture
@@ -201,12 +212,13 @@
   plugin: sources.py
   file: sources.yaml
   image: ../images/research/yoon-group-research-2022-11.png
+  
 - id: doi:10.1002/aic.17701
   title: An experimental/computational study of steric hindrance effects on <scp>CO<sub>2</sub></scp>
     absorption in (non)aqueous amine solutions
   authors:
-  - Qinlan Luo<b>#</b>
-  - Rui Dong<b>#</b>
+  - Qinlan Luo#
+  - Rui Dong#
   - <b>Bohak Yoon#</b>
   - Hongxia Gao
   - Mengjie Chen
@@ -219,6 +231,7 @@
   plugin: sources.py
   file: sources.yaml
   image: ../images/research/yoon-group-research-2022-6.png
+  
 - id: doi:10.1021/acs.iecr.1c04987
   title: Facile Carbamic Acid Intermediate Formation in Aqueous Monoethanolamine and
     Its Vital Role in CO<sub>2</sub> Capture Processes
@@ -232,6 +245,7 @@
   plugin: sources.py
   file: sources.yaml
   image: ../images/research/yoon-group-research-2022-5.png
+  
 - id: doi:10.1021/acs.energyfuels.1c02361
   title: First-Principles Assessment of Anomalous Thermal Degradation of Aqueous 2-Amino-2-methyl-1-propanol
     for CO<sub>2</sub> Capture
@@ -245,6 +259,7 @@
   plugin: sources.py
   file: sources.yaml
   image: ../images/research/yoon-group-research-2021-4.png
+  
 - id: doi:10.1021/acssuschemeng.0c07203
   title: Anomalous Facile Carbamate Formation at High Stripping Temperatures from
     Carbon Dioxide Reaction with 2-Amino-2-methyl-1-propanol in Aqueous Solution
@@ -258,6 +273,7 @@
   plugin: sources.py
   file: sources.yaml
   image: ../images/research/yoon-group-research-2020-3.png
+  
 - id: doi:10.1039/d0cp02178d
   title: On the mechanism of predominant urea formation from thermal degradation of
     CO<sub>2</sub>-loaded aqueous ethylenediamine
@@ -271,6 +287,7 @@
   plugin: sources.py
   file: sources.yaml
   image: ../images/research/yoon-group-research-2020-2.png
+  
 - id: doi:10.1039/c9cp04518j
   title: 'Molecular mechanisms for thermal degradation of CO<sub>2</sub>-loaded aqueous
     monoethanolamine solution: a first-principles study'
