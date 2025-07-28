@@ -5,7 +5,7 @@
     CO<sub>2</sub> capture: Mechanistic insights into polarity-driven phase separation
     and multi-component synergy'
   authors:
-  - Dingkai Hu#
+  - Dingkai Hu<b>#</b>
   - <b>Bohak Yoon#</b>
   - Yanlong Hu
   - Dezhi Cao
@@ -26,8 +26,8 @@
   - Dingkai Hu
   - Dezhi Cao
   - Shi-jian Lu
-  - Qiang Wang\*
-  - Bohak Yoon\*
+  - Qiang Wang<b>\*</b>
+  - <b>Bohak Yoon\*</b>
   publisher: ACS Sustainable Chemistry &amp; Engineering
   date: '2025-06-16'
   link: https://doi.org/g9qpr6
@@ -39,7 +39,7 @@
   title: Metastable Shared Proton Complexes in Aqueous Sulfuric Acid Solutions
   authors:
   - Sijia Chen
-  - Bohak Yoon
+  - <b>Bohak Yoon</b>
   - Jiangbo Wu
   - Gregory A. Voth
   publisher: The Journal of Physical Chemistry Letters
@@ -53,8 +53,8 @@
   title: "Impact of Side Chains in 1\u2010<i>n</i>\u2010Alkylimidazolium Ionomers\
     \ on Cu\u2010Catalyzed Electrochemical CO<sub>2</sub> Reduction"
   authors:
-  - Young In Song#
-  - Bohak Yoon#
+  - Young In Song<b>#</b>
+  - <b>Bohak Yoon#</b>
   - Chanwoo Lee
   - Dogyeong Kim
   - Man Ho Han
@@ -75,7 +75,7 @@
   title: On the Key Influence of Amino Acid Ionic Liquid Anions on CO<sub>2</sub>
     Capture
   authors:
-  - Bohak Yoon
+  - <b>Bohak Yoon</b>
   - Sijia Chen
   - Gregory A. Voth
   publisher: Journal of the American Chemical Society
@@ -89,7 +89,7 @@
   title: Elucidating the Molecular Mechanism of CO<sub>2</sub> Capture by Amino Acid
     Ionic Liquids
   authors:
-  - Bohak Yoon
+  - <b>Bohak Yoon</b>
   - Gregory A. Voth
   publisher: Journal of the American Chemical Society
   date: '2023-07-13'
@@ -109,7 +109,7 @@
   - Yuanyuan Li
   - Hongxia Gao
   - Gyeong S. Hwang
-  - Bohak Yoon
+  - <b>Bohak Yoon</b>
   - Teerawat Sema
   - Paitoon Tontiwachwuthikul
   - Peng Luo
@@ -126,7 +126,7 @@
   title: Probing strong steric hindrance effects in aqueous alkanolamines for CO2
     capture from first principles
   authors:
-  - Bohak Yoon
+  - <b>Bohak Yoon</b>
   - David C. Calabro
   - Lisa Saunders Baugh
   - Sumathy Raman
@@ -149,7 +149,7 @@
   - Yuanyuan Li
   - Nan Wang
   - Gyeong S. Hwang
-  - Bohak Yoon
+  - <b>Bohak Yoon</b>
   - Zhiwu Liang
   publisher: Separation and Purification Technology
   date: '2022-11-01'
@@ -162,8 +162,8 @@
   title: "Combined experimental and computational study on the promising monoethanolamine\_\
     +\_2-(ethylamino)ethanol\_+\_sulfolane biphasic aqueous solution for CO2 absorption"
   authors:
-  - Qinlan Luo#
-  - Bohak Yoon#
+  - Qinlan Luo<b>#</b>
+  - <b>Bohak Yoon#</b>
   - Hongxia Gao
   - Juan Lv
   - Gyeong S. Hwang
@@ -180,7 +180,7 @@
   title: 'Intriguing Thermal Degradation Behavior of Aqueous Piperazine for Carbon
     Dioxide Capture: A First-Principles Assessment'
   authors:
-  - Bohak Yoon
+  - <b>Bohak Yoon</b>
   - Gyeong S. Hwang
   publisher: ACS Sustainable Chemistry &amp; Engineering
   date: '2022-07-14'
@@ -193,7 +193,7 @@
   title: First-principles studies on degradation of aqueous amines for carbon dioxide
     capture
   authors:
-  - Bohak Yoon
+  - <b>Bohak Yoon</b>
   publisher: The University of Texas at Austin
   date: '2022-04-27'
   link: https://doi.org/gt7x66
@@ -205,9 +205,9 @@
   title: An experimental/computational study of steric hindrance effects on <scp>CO<sub>2</sub></scp>
     absorption in (non)aqueous amine solutions
   authors:
-  - Qinlan Luo#
-  - Rui Dong#
-  - Bohak Yoon#
+  - Qinlan Luo<b>#</b>
+  - Rui Dong<b>#</b>
+  - <b>Bohak Yoon#</b>
   - Hongxia Gao
   - Mengjie Chen
   - Gyeong S. Hwang
@@ -223,7 +223,7 @@
   title: Facile Carbamic Acid Intermediate Formation in Aqueous Monoethanolamine and
     Its Vital Role in CO<sub>2</sub> Capture Processes
   authors:
-  - Bohak Yoon
+  - <b>Bohak Yoon</b>
   - Gyeong S. Hwang
   publisher: Industrial &amp; Engineering Chemistry Research
   date: '2022-03-21'
@@ -236,7 +236,7 @@
   title: First-Principles Assessment of Anomalous Thermal Degradation of Aqueous 2-Amino-2-methyl-1-propanol
     for CO<sub>2</sub> Capture
   authors:
-  - Bohak Yoon
+  - <b>Bohak Yoon</b>
   - Gyeong S. Hwang
   publisher: Energy &amp; Fuels
   date: '2021-10-08'
@@ -249,7 +249,7 @@
   title: Anomalous Facile Carbamate Formation at High Stripping Temperatures from
     Carbon Dioxide Reaction with 2-Amino-2-methyl-1-propanol in Aqueous Solution
   authors:
-  - Bohak Yoon
+  - <b>Bohak Yoon</b>
   - Gyeong S. Hwang
   publisher: ACS Sustainable Chemistry &amp; Engineering
   date: '2020-12-09'
@@ -262,7 +262,7 @@
   title: On the mechanism of predominant urea formation from thermal degradation of
     CO<sub>2</sub>-loaded aqueous ethylenediamine
   authors:
-  - Bohak Yoon
+  - <b>Bohak Yoon</b>
   - Gyeong S. Hwang
   publisher: Physical Chemistry Chemical Physics
   date: '2020-01-01'
@@ -275,7 +275,7 @@
   title: 'Molecular mechanisms for thermal degradation of CO<sub>2</sub>-loaded aqueous
     monoethanolamine solution: a first-principles study'
   authors:
-  - Bohak Yoon
+  - <b>Bohak Yoon</b>
   - Haley M. Stowe
   - Gyeong S. Hwang
   publisher: Physical Chemistry Chemical Physics
