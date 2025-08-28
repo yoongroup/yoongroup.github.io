@@ -4,7 +4,6 @@ image: images/headshots/shedrack_akpe.jpg
 role: current-postdoc
 links:
   email: shedrack_akpe@baylor.edu
-  orcid: 0000-0003-1769-6422
   google-scholar: qx96jocAAAAJ
 ---
 
