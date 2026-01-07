@@ -39,11 +39,13 @@ alum-technician:
   description: Former Research Technician
 
 alum-postdoc:
-  icon: fa-solid fa-hand-spock
+  icon: fa-solid fa-user-graduate
+  #icon: fa-solid fa-hand-spock
   description: Former Postdoctoral Researcher
 
 alum-phd:
-  icon: fa-solid fa-hand-spock
+  icon: fa-solid fa-graduation-cap
+  #icon: fa-solid fa-hand-spock
   description: Former PhD Student
 
 alum-ms:
@@ -55,7 +57,8 @@ alum-rotation:
   description: Former Rotation Student
 
 alum-undergrad:
-  icon: fa-solid fa-hand-spock
+  icon: fa-solid fa-pencil
+  #icon: fa-solid fa-hand-spock
   description: Former Undergraduate Student
 
 alum-hs:
