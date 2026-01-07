@@ -15,3 +15,12 @@ nav:
 {% include list.html  data="members"  component="portrait"  filters="role: current-postdoc" %}
 {% include list.html  data="members"  component="portrait"  filters="role: current-phd" %}
 {% include list.html  data="members"  component="portrait"  filters="role: current-undergrad" %}
+
+{% include section.html %}
+
+## Alumni
+
+{% include list.html data="members" component="portrait" filters="role: postdoc-alum" %}
+{% include list.html data="members" component="portrait" filters="role: phd-alum" %}
+{% include list.html data="members" component="portrait" filters="role: ms-alum" %}
+{% include list.html data="members" component="portrait" filters="role: undergrad-alum" %}
