@@ -1,7 +1,7 @@
 ---
 name: Shedrack Akpe
 image: images/headshots/shedrack_akpe.jpg
-role: postdoc-alum
+role: alum-postdoc
 links:
   email: shedrack_akpe@baylor.edu
   google-scholar: qx96jocAAAAJ
