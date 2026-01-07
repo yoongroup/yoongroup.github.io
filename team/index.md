@@ -20,7 +20,7 @@ nav:
 
 ## Alumni
 
-{% include list.html data="members" component="portrait" filters="role: postdoc-alum" %}
-{% include list.html data="members" component="portrait" filters="role: phd-alum" %}
-{% include list.html data="members" component="portrait" filters="role: ms-alum" %}
-{% include list.html data="members" component="portrait" filters="role: undergrad-alum" %}
+{% include list.html data="members" component="portrait" filters="role: alum-postdoc" %}
+{% include list.html data="members" component="portrait" filters="role: alum-phd" %}
+{% include list.html data="members" component="portrait" filters="role: alum-ms" %}
+{% include list.html data="members" component="portrait" filters="role: alum-undergrad" %}
