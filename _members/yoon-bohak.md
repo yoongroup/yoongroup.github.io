@@ -17,15 +17,15 @@ links:
 ###  cv: assets/CV_BohakYoon_Oct2024.pdf
 
 workexperience:
-  - Baylor University, Assistant Professor (01/2025 - Present)
-  - UChicago, PostDoc in Theoretical Chemistry (2024)
+  - Baylor University, Assistant Professor (12/2024 - Present)
+  - UChicago, PostDoc in Theoretical Chemistry (07/2022 - 12/2024)
 
 education:
   - UT Austin, Ph.D. in Chemical Engineering (2022)
   - Lehigh University, B.S. in Chemical Engineering (2016)
 ---
 
-Bohak Yoon is an Assistant Professor in the Department of Chemistry and Biochemistry and Materials Science and Engineering at Baylor University.
+Bohak Yoon is an Assistant Professor in the Department of Chemistry and Biochemistry with a joint appointment in Materials Science and Engineering at Baylor University.
 He conducted his postdoctoral research in Theoretical Chemistry under the mentorship of [Prof. Gregory A. Voth](https://en.wikipedia.org/wiki/Gregory_A._Voth) at the University of Chicago in Chicago, Illinois. Previously, he earned his Ph.D. in Chemical Engineering at the University of Texas at Austin, working with [Prof. G. S. Hwang](https://che.utexas.edu/people/faculty/hwang).
 
 Bohak’s journey began in Lake Placid, New York, during middle school at [North Country School](https://northcountryschool.org), where he was captivated by the joy of mathematics. His passion for chemistry, physics, and math further grew during high school at [The Masters School](https://www.mastersny.org) in Dobbs Ferry, New York. Driven by a desire to integrate all three disciplines, he pursued a B.S. in Chemical Engineering at Lehigh University in Bethlehem, Pennsylvania, where he discovered his love for research and teaching under [Prof. Mark A. Snyder](https://engineering.lehigh.edu/faculty/mark-snyder) and [Prof. Steven McIntosh](https://engineering.lehigh.edu/faculty/steven-mcintosh). Bohak’s research focuses on developing and applying multiscale modeling and AI/ML at the intersection of physics, chemistry, and biology to address challenges in energy and sustainability.
