@@ -21,6 +21,13 @@ layout: default
 ## Biography
 {{ content }}
 
+{% if page.workexperience %}
+### Professional Appointment
+{% for degree in page.workexperience %}
+- {{ degree }}
+{% endfor %}
+{% endif %}
+
 {% if page.education %}
 ### Education
 {% for degree in page.education %}
