@@ -18,7 +18,7 @@ links:
 
 workexperience:
   - Baylor University, Assistant Professor (12/2024 - Present)
-  - UChicago, PostDoc in Theoretical Chemistry (07/2022 - 12/2024)
+  - UChicago, PostDoc in Theoretical Chemistry \\ (07/2022 - 12/2024)
 
 education:
   - UT Austin, Ph.D. in Chemical Engineering (2022)
