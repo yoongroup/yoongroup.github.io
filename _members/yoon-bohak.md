@@ -17,8 +17,13 @@ links:
 ###  cv: assets/CV_BohakYoon_Oct2024.pdf
 
 workexperience:
-  - Baylor University, Assistant Professor (12/2024 - Present)
-  - UChicago, PostDoc in Theoretical Chemistry \\ (07/2022 - 12/2024)
+  - Baylor University, Assistant Professor 
+    Department of Chemistry and Biochemistry
+    Materials Science and Engineering
+    (12/2024 - Present)
+  - University of Chicago, Postdoctoral Fellow
+    Theoretical Chemistry 
+    (07/2022 - 12/2024)
 
 education:
   - UT Austin, Ph.D. in Chemical Engineering (2022)
