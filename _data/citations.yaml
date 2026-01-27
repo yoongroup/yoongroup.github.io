@@ -1,31 +1,31 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: doi:10.1021/acscatal.5c08472
-  title: "Ionomer Charge Density Modulates Interfacial Water and Reaction Intermediates\
-    \ for CO\n                    <sub>2</sub>\n                    Electrolysis to\
-    \ C\n                    <sub>2</sub>\n                    Products"
+  title: Ionomer Charge Density Modulates Interfacial Water and Reaction Intermediates
+    for CO<sub>2</sub> Electrolysis to C<sub>2</sub> Products
   authors:
-  - Young In Song
-  - Shedrack G. Akpe
+  - Young In Song#
+  - Shedrack G. Akpe#
   - Jihyun Park
   - Dogyeong Kim
   - Woong Hee Lee
-  - Jung Kyu Kim
-  - Hyo Sang Jeon
-  - Bohak Yoon
-  - Jai Hyun Koh
+  - Jung Kyu Kim*
+  - Hyo Sang Jeon*
+  - <b><u>Bohak Yoon*</u></b>
+  - Jai Hyun Koh*
   publisher: ACS Catalysis
   date: '2026-01-23'
   link: https://doi.org/hbmjrp
   orcid: 0000-0003-1769-6422
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: ../images/research/yoon-group-research-2026-20.png
 - id: doi:10.26434/chemrxiv-2025-04xgt
   title: Transient Bis(Carboranyl)boryl Anions
   authors:
   - Kanika Vashisth
   - Ragene Thornton
-  - <b>Bohak Yoon\*</b>
+  - <b><u>Bohak Yoon*</u></b>
   - Caleb Martin<b>\*</b>
   publisher: ChemRxiv
   date: '2025-12-17'
@@ -40,7 +40,7 @@
     and multi-component synergy'
   authors:
   - Dingkai Hu<b>#</b>
-  - <b>Bohak Yoon#</b>
+  - <b><u>Bohak Yoon#</u></b>
   - Yanlong Hu
   - Dezhi Cao
   - Qiang Wang
@@ -61,7 +61,7 @@
   - Dezhi Cao
   - Shi-jian Lu
   - Qiang Wang<b>\*</b>
-  - <b>Bohak Yoon\*</b>
+  - <b><u>Bohak Yoon*</u></b>
   publisher: ACS Sustainable Chemistry &amp; Engineering
   date: '2025-06-17'
   link: https://doi.org/g9qpr6
@@ -73,7 +73,7 @@
   title: Metastable Shared Proton Complexes in Aqueous Sulfuric Acid Solutions
   authors:
   - Sijia Chen
-  - <b>Bohak Yoon</b>
+  - <b><u>Bohak Yoon</u></b>
   - Jiangbo Wu
   - Gregory A. Voth
   publisher: The Journal of Physical Chemistry Letters
@@ -88,7 +88,7 @@
     \ on Cu\u2010Catalyzed Electrochemical CO<sub>2</sub> Reduction"
   authors:
   - Young In Song<b>#</b>
-  - <b>Bohak Yoon#</b>
+  - <b><u>Bohak Yoon#</u></b>
   - Chanwoo Lee
   - Dogyeong Kim
   - Man Ho Han
@@ -109,7 +109,7 @@
   title: On the Key Influence of Amino Acid Ionic Liquid Anions on CO<sub>2</sub>
     Capture
   authors:
-  - <b>Bohak Yoon</b>
+  - <b><u>Bohak Yoon</u></b>
   - Sijia Chen
   - Gregory A. Voth
   publisher: Journal of the American Chemical Society
@@ -123,7 +123,7 @@
   title: Elucidating the Molecular Mechanism of CO<sub>2</sub> Capture by Amino Acid
     Ionic Liquids
   authors:
-  - <b>Bohak Yoon</b>
+  - <b><u>Bohak Yoon</u></b>
   - Gregory A. Voth
   publisher: Journal of the American Chemical Society
   date: '2023-07-13'
@@ -143,7 +143,7 @@
   - Yuanyuan Li
   - Hongxia Gao
   - Gyeong S. Hwang
-  - <b>Bohak Yoon</b>
+  - <b><u>Bohak Yoon</u></b>
   - Teerawat Sema
   - Paitoon Tontiwachwuthikul
   - Peng Luo
@@ -160,7 +160,7 @@
   title: Probing strong steric hindrance effects in aqueous alkanolamines for CO2
     capture from first principles
   authors:
-  - <b>Bohak Yoon</b>
+  - <b><u>Bohak Yoon</u></b>
   - David C. Calabro
   - Lisa Saunders Baugh
   - Sumathy Raman
@@ -183,7 +183,7 @@
   - Yuanyuan Li
   - Nan Wang
   - Gyeong S. Hwang
-  - <b>Bohak Yoon</b>
+  - <b><u>Bohak Yoon</u></b>
   - Zhiwu Liang
   publisher: Separation and Purification Technology
   date: '2022-11-01'
@@ -197,7 +197,7 @@
     +\_2-(ethylamino)ethanol\_+\_sulfolane biphasic aqueous solution for CO2 absorption"
   authors:
   - Qinlan Luo<b>#</b>
-  - <b>Bohak Yoon#</b>
+  - <b><u>Bohak Yoon#</u></b>
   - Hongxia Gao
   - Juan Lv
   - Gyeong S. Hwang
@@ -214,7 +214,7 @@
   title: 'Intriguing Thermal Degradation Behavior of Aqueous Piperazine for Carbon
     Dioxide Capture: A First-Principles Assessment'
   authors:
-  - <b>Bohak Yoon</b>
+  - <b><u>Bohak Yoon</u></b>
   - Gyeong S. Hwang
   publisher: ACS Sustainable Chemistry &amp; Engineering
   date: '2022-07-14'
@@ -227,7 +227,7 @@
   title: First-principles studies on degradation of aqueous amines for carbon dioxide
     capture
   authors:
-  - <b>Bohak Yoon</b>
+  - <b><u>Bohak Yoon</u></b>
   publisher: The University of Texas at Austin
   date: '2022-04-27'
   link: https://doi.org/gt7x66
@@ -241,7 +241,7 @@
   authors:
   - Qinlan Luo<b>#</b>
   - Rui Dong<b>#</b>
-  - <b>Bohak Yoon#</b>
+  - <b><u>Bohak Yoon#</u></b>
   - Hongxia Gao
   - Mengjie Chen
   - Gyeong S. Hwang
@@ -257,7 +257,7 @@
   title: Facile Carbamic Acid Intermediate Formation in Aqueous Monoethanolamine and
     Its Vital Role in CO<sub>2</sub> Capture Processes
   authors:
-  - <b>Bohak Yoon</b>
+  - <b><u>Bohak Yoon</u></b>
   - Gyeong S. Hwang
   publisher: Industrial &amp; Engineering Chemistry Research
   date: '2022-03-21'
@@ -270,7 +270,7 @@
   title: First-Principles Assessment of Anomalous Thermal Degradation of Aqueous 2-Amino-2-methyl-1-propanol
     for CO<sub>2</sub> Capture
   authors:
-  - <b>Bohak Yoon</b>
+  - <b><u>Bohak Yoon</u></b>
   - Gyeong S. Hwang
   publisher: Energy &amp; Fuels
   date: '2021-10-08'
@@ -283,7 +283,7 @@
   title: Anomalous Facile Carbamate Formation at High Stripping Temperatures from
     Carbon Dioxide Reaction with 2-Amino-2-methyl-1-propanol in Aqueous Solution
   authors:
-  - <b>Bohak Yoon</b>
+  - <b><u>Bohak Yoon</u></b>
   - Gyeong S. Hwang
   publisher: ACS Sustainable Chemistry &amp; Engineering
   date: '2020-12-09'
@@ -296,7 +296,7 @@
   title: On the mechanism of predominant urea formation from thermal degradation of
     CO<sub>2</sub>-loaded aqueous ethylenediamine
   authors:
-  - <b>Bohak Yoon</b>
+  - <b><u>Bohak Yoon</u></b>
   - Gyeong S. Hwang
   publisher: Physical Chemistry Chemical Physics
   date: '2020-01-01'
@@ -309,7 +309,7 @@
   title: 'Molecular mechanisms for thermal degradation of CO<sub>2</sub>-loaded aqueous
     monoethanolamine solution: a first-principles study'
   authors:
-  - <b>Bohak Yoon</b>
+  - <b><u>Bohak Yoon</u></b>
   - Haley M. Stowe
   - Gyeong S. Hwang
   publisher: Physical Chemistry Chemical Physics
