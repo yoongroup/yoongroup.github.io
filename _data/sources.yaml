@@ -1,9 +1,24 @@
+- id: doi:10.1021/acscatal.5c08472
+  title: "Ionomer Charge Density Modulates Interfacial Water and Reaction Intermediates for CO<sub>2</sub> Electrolysis to C<sub>2</sub> Products"
+  authors:
+  - Young In Song#
+  - Shedrack G. Akpe#
+  - Jihyun Park
+  - Dogyeong Kim
+  - Woong Hee Lee
+  - Jung Kyu Kim*
+  - Hyo Sang Jeon*
+  - <b><u>Bohak Yoon*</u></b>
+  - Jai Hyun Koh*
+  publisher: ACS Catalysis
+  image: ../images/research/yoon-group-research-2026-20.png
+  
 - id: doi:10.26434/chemrxiv-2025-04xgt
   title: "Transient Bis(Carboranyl)boryl Anions"
   authors:
   - Kanika Vashisth
   - Ragene Thornton
-  - <b>Bohak Yoon\*</b>
+  - <b><u>Bohak Yoon*</u></b>
   - Caleb Martin<b>\*</b>
   publisher: ChemRxiv
   image: ../images/research/yoon-group-research-2025-19-rxiv.png
@@ -12,7 +27,7 @@
   title: "Tailoring amine activators in MDEA/NHD/H2O biphasic absorbents for energy-efficient CO<sub>2</sub> capture: Mechanistic insights into polarity-driven phase separation and multi-component synergy"
   authors:
   - Dingkai Hu<b>#</b>
-  - <b>Bohak Yoon#</b>
+  - <b><u>Bohak Yoon#</u></b>
   - Yanlong Hu
   - Dezhi Cao
   - Qiang Wang
@@ -27,13 +42,13 @@
   - Dezhi Cao
   - Shi-jian Lu
   - Qiang Wang<b>\*</b>
-  - <b>Bohak Yoon\*</b>
+  - <b><u>Bohak Yoon*</u></b>
   image: ../images/research/yoon-group-research-2025-17.png
 
 - id: doi:10.1021/acs.jpclett.5c00349
   authors:
   - Sijia Chen
-  - <b>Bohak Yoon</b>
+  - <b><u>Bohak Yoon</u></b>
   - Jiangbo Wu
   - Gregory A. Voth
   image: ../images/research/yoon-group-research-2025-16.png
@@ -42,7 +57,7 @@
   title: "Impact of Side Chains in 1\u2010<i>n</i>\u2010Alkylimidazolium Ionomers on Cu\u2010Catalyzed Electrochemical CO<sub>2</sub> Reduction"
   authors:
   - Young In Song<b>#</b>
-  - <b>Bohak Yoon#</b>
+  - <b><u>Bohak Yoon#</u></b>
   - Chanwoo Lee
   - Dogyeong Kim
   - Man Ho Han
@@ -56,14 +71,14 @@
 
 - id: doi:10.1021/jacs.3c11808
   authors:
-  - <b>Bohak Yoon</b>
+  - <b><u>Bohak Yoon</u></b>
   - Sijia Chen
   - Gregory A. Voth
   image: ../images/research/yoon-group-research-2024-14.png
 
 - id: doi:10.1021/jacs.3c03613
   authors:
-  - <b>Bohak Yoon</b>
+  - <b><u>Bohak Yoon</u></b>
   - Gregory A. Voth
   image: ../images/research/yoon-group-research-2023-13.png
 
@@ -76,7 +91,7 @@
   - Yuanyuan Li
   - Hongxia Gao
   - Gyeong S. Hwang
-  - <b>Bohak Yoon</b>
+  - <b><u>Bohak Yoon</u></b>
   - Teerawat Sema
   - Paitoon Tontiwachwuthikul
   - Peng Luo
@@ -86,7 +101,7 @@
 
 - id: doi:10.1016/j.jece.2022.108987
   authors:
-  - <b>Bohak Yoon</b>
+  - <b><u>Bohak Yoon</u></b>
   - David C. Calabro
   - Lisa Saunders Baugh
   - Sumathy Raman
@@ -101,20 +116,20 @@
   - Yuanyuan Li
   - Nan Wang
   - Gyeong S. Hwang
-  - <b>Bohak Yoon</b>
+  - <b><u>Bohak Yoon</u></b>
   - Zhiwu Liang
   image: ../images/research/yoon-group-research-2022-10.png
 
 - id: doi:10.1021/acssuschemeng.2c02502
   authors:
-  - <b>Bohak Yoon</b>
+  - <b><u>Bohak Yoon</u></b>
   - Gyeong S. Hwang
   image: ../images/research/yoon-group-research-2022-8.png
 
 - id: doi:10.1016/j.cej.2022.136674
   authors:
   - Qinlan Luo<b>#</b>
-  - <b>Bohak Yoon#</b>
+  - <b><u>Bohak Yoon#</u></b>
   - Hongxia Gao
   - Juan Lv
   - Gyeong S. Hwang
@@ -124,12 +139,12 @@
 
 - id: doi:10.26153/TSW/42585
   authors:
-  - <b>Bohak Yoon</b>
+  - <b><u>Bohak Yoon</u></b>
   image: ../images/research/yoon-group-research-2022-11.png
 
 - id: doi:10.1021/acs.iecr.1c04987
   authors:
-  - <b>Bohak Yoon</b>
+  - <b><u>Bohak Yoon</u></b>
   - Gyeong S. Hwang
   image: ../images/research/yoon-group-research-2022-5.png
 
@@ -137,7 +152,7 @@
   authors:
   - Qinlan Luo<b>#</b>
   - Rui Dong<b>#</b>
-  - <b>Bohak Yoon#</b>
+  - <b><u>Bohak Yoon#</u></b>
   - Hongxia Gao
   - Mengjie Chen
   - Gyeong S. Hwang
@@ -146,25 +161,25 @@
 
 - id: doi:10.1021/acs.energyfuels.1c02361
   authors:
-  - <b>Bohak Yoon</b>
+  - <b><u>Bohak Yoon</u></b>
   - Gyeong S. Hwang
   image: ../images/research/yoon-group-research-2021-4.png
 
 - id: doi:10.1021/acssuschemeng.0c07203
   authors:
-  - <b>Bohak Yoon</b>
+  - <b><u>Bohak Yoon</u></b>
   - Gyeong S. Hwang
   image: ../images/research/yoon-group-research-2020-3.png
 
 - id: doi:10.1039/d0cp02178d
   authors:
-  - <b>Bohak Yoon</b>
+  - <b><u>Bohak Yoon</u></b>
   - Gyeong S. Hwang
   image: ../images/research/yoon-group-research-2020-2.png
 
 - id: doi:10.1039/c9cp04518j
   authors:
-  - <b>Bohak Yoon</b>
+  - <b><u>Bohak Yoon</u></b>
   - Haley M. Stowe
   - Gyeong S. Hwang
   image: ../images/research/yoon-group-research-2019-1.png
