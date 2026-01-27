@@ -1,15 +1,15 @@
 - id: doi:10.1021/acscatal.5c08472
   title: "Ionomer Charge Density Modulates Interfacial Water and Reaction Intermediates for CO<sub>2</sub> Electrolysis to C<sub>2</sub> Products"
   authors:
-  - Young In Song#
-  - Shedrack G. Akpe#
+  - Young In Song<b>#</b>
+  - Shedrack G. Akpe<b>#</b>
   - Jihyun Park
   - Dogyeong Kim
   - Woong Hee Lee
-  - Jung Kyu Kim\*
-  - Hyo Sang Jeon\*
-  - <b><u>Bohak Yoon\*</u></b>
-  - Jai Hyun Koh\*
+  - Jung Kyu Kim<b>\*</b>
+  - Hyo Sang Jeon<b>\*</b>
+  - <b><u>Bohak Yoon*</u></b>
+  - Jai Hyun Koh<b>\*</b>
   publisher: ACS Catalysis
   image: ../images/research/yoon-group-research-2026-20.png
   
@@ -42,7 +42,7 @@
   - Dezhi Cao
   - Shi-jian Lu
   - Qiang Wang<b>\*</b>
-  - <b><u>Bohak Yoon\*</u></b>
+  - <b><u>Bohak Yoon*</u></b>
   image: ../images/research/yoon-group-research-2025-17.png
 
 - id: doi:10.1021/acs.jpclett.5c00349
