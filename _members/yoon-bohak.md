@@ -17,8 +17,7 @@ links:
 ###  cv: assets/CV_BohakYoon_Oct2024.pdf
 
 workexperience:
-  - KAIST, Assistant Professor<br>
-    GGGS<br>
+  - KAIST, GGGS, Assistant Professor<br>
     (02/2026 - Present)
   - Baylor University, Assistant Professor<br>
     Department of Chemistry and Biochemistry<br>
