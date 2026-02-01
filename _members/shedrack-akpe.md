@@ -1,5 +1,9 @@
 ---
 name: Shedrack Akpe
+aliases:
+  - S. Akpe
+  - S. G. Akpe
+  - Shedrack G. Akpe
 image: images/headshots/shedrack_akpe.jpg
 role: alum-postdoc
 links:
