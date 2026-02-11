@@ -1,14 +1,14 @@
 # site properties and page defaults
 title: Yoon Group
 subtitle: 
-description: Harnessing Computation and AI for Materials Design in Energy and Sustainability
+description: Harnessing Artificial Intelligence (AI), Machine Learning (ML), and Computation for Energy and Sustainability Challenges
 header: images/welcome2.jpg
 footer: images/welcome2.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: bohak_yoon@baylor.edu
+  email: bohakyoon@kaist.ac.kr
   orcid: 0000-0003-1769-6422
   google-scholar: https://scholar.google.com/citations?user=fFMlDWEAAAAJ&hl=en
   github: yoongroup
