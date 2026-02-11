@@ -6,9 +6,7 @@ nav:
 ---
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Inquiries can be directed to [bohakyoon@kaist.ac.kr](mailto:bohakyoon@kaist.ac.kr).
-
-We’re looking for highly motivated graduate (MS and PhD) and undergraduate students and postdocs in the Yoon Group. Please send an email to [bohakyoon@kaist.ac.kr](mailto:bohakyoon@kaist.ac.kr) with your CV, if you’re interested in working with us!
+We’re actively seeking highly motivated graduate (MS and PhD) and undergraduate students, as well as postdocs in the Yoon Group. Please send an email to [bohakyoon@kaist.ac.kr](mailto:bohakyoon@kaist.ac.kr) with your CV, if you’re interested in working with us!
 
 
 {%
