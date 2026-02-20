@@ -25,7 +25,7 @@ Harnessing and implementing artificial intelligence (AI) and neural network mode
 %}
 
 {% capture text %}
-Developing and applying multiscale simulations, from quantum mechanics to coarse-grained molecular dynamics and continuum scale modeling, is essential for addressing energy and sustainability challenges. These simulations enable us to understand and optimize complex processes across different scales, from atomic-level reactions to large-scale system behavior, which is critical for designing efficient energy conversion and storage systems. By integrating and connecting insights from various scales with enhanced sampling methods, we can develop more sustainable materials and technologies that minimize environmental impact, such as advanced biological and catalytic processes. Additionally, this approach helps in predicting the performance and lifetime of energy-related materials and systems under realistic operating conditions, guiding the development of future sustainable solutions.
+The Yoon Group develops advanced computational and data-driven strategies to accelerate discovery across chemical catalysis, biocatalysis, and electrocatalysis. We integrate artificial intelligence (AI), machine learning (ML), and multiscale modeling to understand and design catalytic systems spanning molecular, interfacial, and condensed-phase environments. By bridging quantum mechanical simulations, molecular dynamics, and continuum-scale modeling, we uncover fundamental reaction mechanisms, energy landscapes, and dynamic solvent or interfacial effects that govern catalytic performance. Our approach enables predictive design of metal and heterogeneous catalysts, enzyme-mediated transformations, and electrochemical interfaces relevant to sustainable chemical manufacturing, carbon conversion, and energy technologies. Through the synergy of physics-based modeling and data-driven learning, we aim to transform how catalytic materials and processes are discovered and optimized.
 
 <br>
 
@@ -34,8 +34,8 @@ Developing and applying multiscale simulations, from quantum mechanics to coarse
 
 {%
   include feature.html
-  image="images/research/yoon-group-research-2.png"
-  headline="multiscale-modeling"
+  image="images/research/yoon-group-research-6.png"
+  headline="catalysis"
   text=text
 %}
 
@@ -75,5 +75,20 @@ Our group employs advanced molecular dynamics techniques to capture essential qu
   include feature.html
   image="images/research/yoon-group-research-4.png"
   headline="path-integral-molecular-dynamics"
+  text=text
+%}
+
+{% capture text %}
+Developing and applying multiscale simulations, from quantum mechanics to coarse-grained molecular dynamics and continuum scale modeling, is essential for addressing energy and sustainability challenges. These simulations enable us to understand and optimize complex processes across different scales, from atomic-level reactions to large-scale system behavior, which is critical for designing efficient energy conversion and storage systems. By integrating and connecting insights from various scales with enhanced sampling methods, we can develop more sustainable materials and technologies that minimize environmental impact, such as advanced biological and catalytic processes. Additionally, this approach helps in predicting the performance and lifetime of energy-related materials and systems under realistic operating conditions, guiding the development of future sustainable solutions.
+
+<br>
+
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/research/yoon-group-research-2.png"
+  headline="multiscale-modeling"
   text=text
 %}
