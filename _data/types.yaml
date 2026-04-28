@@ -21,6 +21,16 @@ current-undergrad:
   icon: fa-solid fa-pencil
   description: Undergraduate Student
 
+current-innocore-postdoc:
+  #icon: fa-solid fa-user-graduate
+  icon: fa-solid fa-user-graduate
+  description: InnoCORE Postdoc Fellow
+
+current-intern:
+  #icon: fa-solid fa-user-graduate
+  icon: fa-solid fa-pencil
+  description: Graduate Intern
+
 programmer:
   icon: fa-solid fa-code
   description: Programmer
