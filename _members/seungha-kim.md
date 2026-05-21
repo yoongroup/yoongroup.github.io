@@ -11,4 +11,4 @@ links:
   google-scholar: fFMlDWEAAAAJ&hl
 ---
 
-Seungha joined the Yoon Group at KAIST as a graduate intern in April 2026. His current research interests are developing and applying artificial intelligence (AI) and machine learning (ML) for biological and biochemical systems. 
+Seungha joins the Yoon Group at KAIST as a graduate student in April 2026. His current research interests are developing and applying artificial intelligence (AI) and machine learning (ML) for biological and biochemical systems. 
