@@ -16,6 +16,10 @@ current-phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
+current-grad:
+  icon: fa-solid fa-graduation-cap
+  description: Graduate Student
+
 current-undergrad:
   #icon: fa-solid fa-user-graduate
   icon: fa-solid fa-pencil
