@@ -5,7 +5,7 @@ aliases:
   - S. H. Kim
   - Seung H. Kim
 image: images/headshots/seungha_kim.jpg
-role: current-intern
+role: current-grad
 links:
   email: rlatmdgk0602@kaist.ac.kr
   google-scholar: fFMlDWEAAAAJ&hl
