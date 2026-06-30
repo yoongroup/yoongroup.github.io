@@ -1,6 +1,6 @@
 ---
 title: Our collaborative paper is out in Chemical Science!
-image: images/chem-sci-logo.png
+image: images/chem-sci-logo.jpg
 ---
 
 We’re excited to share that our collaborative paper is now published in [Chemical Science](https://doi.org/10.1039/D6SC03158G)!
