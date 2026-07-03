@@ -33,7 +33,7 @@ current-innocore-postdoc:
 current-intern:
   #icon: fa-solid fa-user-graduate
   icon: fa-solid fa-pencil
-  description: Graduate Intern
+  description: Undergraduate Intern
 
 programmer:
   icon: fa-solid fa-code
