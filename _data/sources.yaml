@@ -1,12 +1,12 @@
 - id: doi:10.1039/D6SC03158G
-  title: Bis(Carboranyl)boryl Anions
+  title: "Transient Bis(Carboranyl)boryl Anions"
   authors:
   - Kanika Vashisth
   - Ragene Thornton
   - <u><b>Bohak Yoon*</b></u>
   - Caleb Martin<b>\*</b>
   publisher: Chemical Science
-  date: '2026-07-03' 
+  date: '2026-07-30' 
   image: ../images/research/yoon-group-research-2026-21.png
 
 - id: doi:10.1021/acscatal.5c08472
@@ -26,7 +26,7 @@
   image: ../images/research/yoon-group-research-2026-20.png
   
 - id: doi:10.26434/chemrxiv-2025-04xgt
-  title: "Transient Bis(Carboranyl)boryl Anions"
+  title: "Bis(Carboranyl)boryl Anions"
   authors:
   - Kanika Vashisth
   - Ragene Thornton
