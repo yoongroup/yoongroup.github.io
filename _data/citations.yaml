@@ -1,18 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1039/d6sc03158g
-  title: Bis(Carboranyl)boryl Anions
-  authors:
-  - Kanika Vashisth
-  - Ragene Thornton
-  - Bohak Yoon
-  - Caleb Daniel Martin
-  publisher: Chemical Science
-  date: '2026-01-01'
-  link: https://doi.org/hb8x9p
-  orcid: 0000-0003-1769-6422
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1021/acscatal.5c08472
   title: Ionomer Charge Density Modulates Interfacial Water and Reaction Intermediates
     for CO<sub>2</sub> Electrolysis to C<sub>2</sub> Products
@@ -33,6 +20,20 @@
   plugin: sources.py
   file: sources.yaml
   image: ../images/research/yoon-group-research-2026-20.png
+- id: doi:10.1039/D6SC03158G
+  title: Bis(Carboranyl)boryl Anions
+  authors:
+  - Kanika Vashisth
+  - Ragene Thornton
+  - <u><b>Bohak Yoon*</b></u>
+  - Caleb Martin<b>\*</b>
+  publisher: Chemical Science
+  date: '2026-07-03'
+  link: https://doi.org/hb8x9p
+  orcid: 0000-0003-1769-6422
+  plugin: sources.py
+  file: sources.yaml
+  image: ../images/research/yoon-group-research-2026-21.png
 - id: doi:10.26434/chemrxiv-2025-04xgt
   title: Transient Bis(Carboranyl)boryl Anions
   authors:
@@ -306,8 +307,9 @@
   file: sources.yaml
   image: ../images/research/yoon-group-research-2020-3.png
 - id: doi:10.1039/d0cp02178d
-  title: On the mechanism of predominant urea formation from thermal degradation of
-    CO<sub>2</sub>-loaded aqueous ethylenediamine
+  title: "On the mechanism of predominant urea formation from thermal degradation\
+    \ of CO\n                    <sub>2</sub>\n                    -loaded aqueous\
+    \ ethylenediamine"
   authors:
   - <b><u>Bohak Yoon</u></b>
   - Gyeong S. Hwang
@@ -319,8 +321,9 @@
   file: sources.yaml
   image: ../images/research/yoon-group-research-2020-2.png
 - id: doi:10.1039/c9cp04518j
-  title: 'Molecular mechanisms for thermal degradation of CO<sub>2</sub>-loaded aqueous
-    monoethanolamine solution: a first-principles study'
+  title: "Molecular mechanisms for thermal degradation of CO\n                   \
+    \ <sub>2</sub>\n                    -loaded aqueous monoethanolamine solution:\
+    \ a first-principles study"
   authors:
   - <b><u>Bohak Yoon</u></b>
   - Haley M. Stowe
@@ -332,16 +335,3 @@
   plugin: sources.py
   file: sources.yaml
   image: ../images/research/yoon-group-research-2019-1.png
-- id: doi:10.1039/D6SC03158G
-  title: Bis(Carboranyl)boryl Anions
-  authors:
-  - Kanika Vashisth
-  - Ragene Thornton
-  - <u><b>Bohak Yoon*</b></u>
-  - Caleb Martin<b>\*</b>
-  publisher: Chemical Science
-  date: '2026-07-03'
-  link: https://doi.org/hb8x9p
-  image: ../images/research/yoon-group-research-2026-21.png
-  plugin: sources.py
-  file: sources.yaml
