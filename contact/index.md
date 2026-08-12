@@ -26,7 +26,7 @@ We’re actively seeking highly motivated graduate (MS and PhD) and undergraduat
 ## Directions
 
 {% capture text %}
-We are part of the [Graduate School of Green Growth and Sustainability](https://gggs.kaist.ac.kr/) at KAIST. Our group is located on the KAIST Daejeon campus in South Korea.
+We are part of the [Graduate School of Green Growth and Sustainability](https://gggs.kaist.ac.kr/) and [Department of AX](https://ax.kaist.ac.kr/) at KAIST. Our group is located on the KAIST Daejeon campus in South Korea.
 
 Address: 291 Daehak-ro, Yuseong District, Daejeon, South Korea [[map](https://maps.app.goo.gl/Q4kg9MHLsFcnPxEo6)]
 
