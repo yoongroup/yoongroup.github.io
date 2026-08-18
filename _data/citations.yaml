@@ -280,6 +280,21 @@
   plugin: sources.py
   file: sources.yaml
   image: ../images/research/yoon-group-research-2022-5.png
+- id: doi:10.2139/ssrn.4159265
+  title: "Probing Strong\_Steric Hindrance Effects in Aqueous Alkanolamines for Co2\
+    \ Capture from First Principles"
+  authors:
+  - Bohak Yoon
+  - David Calabro
+  - Lisa Baugh
+  - Sumathy Raman
+  - Gyeong Hwang
+  publisher: Elsevier BV
+  date: '2022-01-01'
+  link: https://doi.org/hcf36v
+  orcid: 0000-0003-1769-6422
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1021/acs.energyfuels.1c02361
   title: First-Principles Assessment of Anomalous Thermal Degradation of Aqueous 2-Amino-2-methyl-1-propanol
     for CO<sub>2</sub> Capture
