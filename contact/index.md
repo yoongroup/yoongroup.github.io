@@ -4,7 +4,7 @@ nav:
   order: 5
   tooltip: Email, address, and location
 ---
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# {% include icon.html icon="fa-regular fa-envelope" %}Join Our Team!
 
 We’re actively seeking highly motivated graduate (MS and PhD) and undergraduate students, as well as postdocs in the Yoon Group. Please send an email to [bohakyoon@kaist.ac.kr](mailto:bohakyoon@kaist.ac.kr) with your CV, if you’re interested in working with us!
 
@@ -22,6 +22,20 @@ We’re actively seeking highly motivated graduate (MS and PhD) and undergraduat
   tooltip="Our location on Google Maps for easy navigation"
   link="https://maps.app.goo.gl/Q4kg9MHLsFcnPxEo6"
 %}
+
+## Graduate (MS and PhD) Students:
+
+If you are interested in joining our group as an MS or PhD student, please [email Bohak](mailto:bohakyoon@kaist.ac.kr) with your research interests and your CV, explaining your academic background and research interests.
+
+## Undergraduate Students:
+
+If you are interested in joining our group as an Undergraduate student, please [email Bohak](mailto:bohakyoon@kaist.ac.kr) with your research interests and your CV.
+
+## Postdoctoral Positions:
+
+If you are interested in joining our group as a Postdoctoral Fellow, please [email Bohak](mailto:bohakyoon@kaist.ac.kr) with your research interests and your CV, explaining your academic background and research interests.
+
+We are also happy to discuss the possibility of supporting postdoctoral candidates in applying for fellowships.
 
 ## Directions
 
