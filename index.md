@@ -5,9 +5,9 @@ The Yoon Group advances AI and multiscale modeling to accelerate chemical and ma
 
 {%
   include figure.html
-  image="images/photos/yoon_group_091526_1.png"
-  width="100%"
-  height="30%"
+  image="images/photos/yoon_group_091526_1.jpeg"
+  width="80%"
+  height="80%"
 %}
 
 We are located at the [GGGS](https://gggs.kaist.ac.kr/all-professor/view/id/156) and the [Department of AX](https://aicollege.kaist.ac.kr/ax) at KAIST. We are currently actively recruiting students and postdocs, so if you are interested, [**join us!**](/contact)
