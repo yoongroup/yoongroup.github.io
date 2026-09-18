@@ -2,6 +2,7 @@
 name: Wasihun Dagnaw
 image: images/headshots/wasihun_dagnaw.jpg
 role: alum-phd
+departure_date: 2025-12-31
 links:
   email: Wasihun_Dagnaw1@baylor.edu
   google-scholar: H-SysxcAAAAJ
