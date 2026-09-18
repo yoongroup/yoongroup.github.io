@@ -1,16 +1,15 @@
 ---
-name: Yulim Kim
+name: Yu Lim Kim
 aliases:
   - Y. Kim
   - Y. L. Kim
   - Yu L. Kim
 image: images/headshots/yulim_kim.jpg
-role: current-innocore-postdoc
+role: alum-postdoc
 links:
   email: yulimkim525@gmail.com
   google-scholar: qNnNCgUAAAAJ
 ---
+## Dr. Yu Lim Kim is now an Assistant Professor in the Department of Chemistry at Soongsil University.
 
-Dr. Yulim Kim joined the Yoon Group at KAIST in July 2026 as a prestigious InnoCORE Postdoc Fellow! Yulim obtained her PhD in Chemistry from Iowa State University, working with Dr. Mark Gordon in 2022. Most recently, Yulim has worked as a postdoc at Argonne National Laboratory and University of Wisconsin-Madison before joining the Yoon Group in July 2026.
-During her PhD, Yulim developed and applied fragmentation methods within quantum mechanics. During her postdoc, she studied catalytic surface reactions using density functional theory (DFT) and on hybrid organic–inorganic perovskites for solar cells, with an emphasis on property analysis and new material discovery. 
-At Yoon Group, Yulim is working on sustainable and energy materials and catalytic photochemistry. 
+Dr. Yu Lim Kim joined the Yoon Group at KAIST in 2026 as a prestigious InnoCORE Postdoc Fellow! Yulim obtained her PhD in Chemistry from Iowa State University, working with Dr. Mark Gordon in 2022. Afterwards, Yu Lim has worked as a postdoc at Argonne National Laboratory and University of Wisconsin-Madison before joining the Yoon Group in 2026. At Yoon Group, Yu Lim worked on sustainable and energy materials towards catalysis. 
