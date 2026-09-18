@@ -23,7 +23,21 @@ nav:
 
 ## Alumni
 
+{% comment %}
+Original role-based alumni lists retained for reference:
+
 {% include list.html data="members" component="portrait" filters="role: alum-postdoc" %}
 {% include list.html data="members" component="portrait" filters="role: alum-phd" %}
 {% include list.html data="members" component="portrait" filters="role: alum-ms" %}
 {% include list.html data="members" component="portrait" filters="role: alum-undergrad" %}
+{% endcomment %}
+
+{% assign alumni = site.members
+  | where_exp: "member", "member.role contains 'alum-'"
+  | sort: "departure_date"
+  | reverse
+%}
+
+{% for member in alumni %}
+  {% include portrait.html lookup=member.slug %}
+{% endfor %}
