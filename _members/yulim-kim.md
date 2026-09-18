@@ -6,6 +6,7 @@ aliases:
   - Yu L. Kim
 image: images/headshots/yulim_kim.jpg
 role: alum-postdoc
+departure_date: 2026-09-01
 links:
   email: yulimkim525@gmail.com
   google-scholar: qNnNCgUAAAAJ
