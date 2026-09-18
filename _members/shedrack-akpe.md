@@ -6,6 +6,7 @@ aliases:
   - Shedrack G. Akpe
 image: images/headshots/shedrack_akpe.jpg
 role: alum-postdoc
+departure_date: 2025-12-31
 links:
   email: shedrack_akpe@baylor.edu
   google-scholar: qx96jocAAAAJ
